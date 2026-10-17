@@ -1,0 +1,12 @@
+{
+  "feeds": [
+    { "name": "mydealz Preisfehler", "url": "https://www.mydealz.de/rss/gruppe/preisfehler", "all_are_errors": true },
+    { "name": "mydealz Neu", "url": "https://www.mydealz.de/rss/new", "all_are_errors": false },
+    { "name": "Preisjäger Neu", "url": "https://www.preisjaeger.at/rss/new", "all_are_errors": false },
+    { "name": "DealDoktor", "url": "https://www.dealdoktor.de/feed/", "all_are_errors": false }
+  ],
+  "notify_only_amazon": true,
+  "max_age_hours_for_push": 6,
+  "keep_days": 14,
+  "max_deals": 300
+}

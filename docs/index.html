@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Preisfehler-Radar</title>
+<meta name="description" content="Amazon-Preisfehler live aufspüren und sofort aufs Handy bekommen.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🎯%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="#top"><span class="dot"></span>Preisfehler-Radar</a>
+    <nav>
+      <a href="#deals">Live-Deals</a>
+      <a href="#alarm">Alarm einrichten</a>
+      <a href="#faq">FAQ</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero wrap">
+    <div>
+      <p class="eyebrow"><span class="pulse"></span>Läuft automatisch alle paar Minuten</p>
+      <h1>Wir finden die Preisfehler.<br><span class="hl">Du kaufst zuerst.</span></h1>
+      <p class="lead">Das Radar durchsucht Deal-Communities nach Amazon-Preisfehlern und schickt dir sofort eine Push-Nachricht aufs Handy – kostenlos, ohne Account.</p>
+      <div class="cta">
+        <a class="btn primary" href="#alarm">Alarm einrichten</a>
+        <a class="btn" href="#deals">Aktuelle Funde ansehen</a>
+      </div>
+    </div>
+    <div class="stats" id="stats">
+      <div><b id="st-total">–</b><span>Funde (14 Tage)</span></div>
+      <div><b id="st-amazon">–</b><span>davon Amazon</span></div>
+      <div><b id="st-today">–</b><span>heute</span></div>
+      <div><b id="st-updated">–</b><span>letztes Update</span></div>
+    </div>
+  </section>
+
+  <section class="wrap" id="deals">
+    <div class="sec-head">
+      <p class="num">01</p>
+      <h2>Frisch gefunden</h2>
+    </div>
+    <div class="toolbar">
+      <div class="seg" id="seg">
+        <button data-f="amazon" class="on">Nur Amazon</button>
+        <button data-f="all">Alle Shops</button>
+      </div>
+      <input id="q" type="search" placeholder="Suchen …" aria-label="Suchen">
+      <button class="btn small" id="bell">🔔 Browser-Alarm</button>
+    </div>
+    <div id="list" class="grid" aria-live="polite"></div>
+    <p class="empty" id="empty" hidden>Keine Treffer für diesen Filter.</p>
+    <p class="hint">Preise ändern sich schnell – Preisfehler werden oft innerhalb von Minuten korrigiert. Der Händler entscheidet, ob er die Bestellung ausliefert.</p>
+  </section>
+
+  <section class="wrap" id="alarm">
+    <div class="sec-head">
+      <p class="num">02</p>
+      <h2>Sofort-Alarm aufs Handy</h2>
+    </div>
+    <div class="steps">
+      <article>
+        <span class="n">1</span>
+        <h3>ntfy-App installieren</h3>
+        <p>Die kostenlose App <b>ntfy</b> gibt es für <a href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">Android</a> und <a href="https://apps.apple.com/app/ntfy/id1625396347" target="_blank" rel="noopener">iPhone</a>.</p>
+      </article>
+      <article>
+        <span class="n">2</span>
+        <h3>Geheimes Thema abonnieren</h3>
+        <p>Dein Thema ist wie ein Passwort – wähle einen langen, zufälligen Namen und trage ihn unten ein.</p>
+        <div class="topic">
+          <input id="topic" placeholder="z. B. preisfehler-x7k2q9m4" autocomplete="off" spellcheck="false">
+          <a class="btn small primary" id="sub" href="#alarm" aria-disabled="true">In ntfy öffnen</a>
+        </div>
+        <p class="tiny" id="topic-note">Wird nur in deinem Browser gespeichert.</p>
+      </article>
+      <article>
+        <span class="n">3</span>
+        <h3>Im Repo hinterlegen</h3>
+        <p>Dasselbe Thema als GitHub-Secret <code>NTFY_TOPIC</code> eintragen (Anleitung in der README). Ab dann klingelt dein Handy bei jedem neuen Amazon-Preisfehler.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="wrap" id="faq">
+    <div class="sec-head">
+      <p class="num">03</p>
+      <h2>FAQ</h2>
+    </div>
+    <div class="faq">
+      <details><summary>Woher kommen die Preisfehler?</summary><p>Das Radar liest öffentliche RSS-Feeds von Deal-Communities (u. a. die Gruppe „Preisfehler“ bei mydealz) und erkennt Beiträge mit Begriffen wie „Preisfehler“ oder „Fehlerpreis“. Amazon selbst wird nicht ausgelesen.</p></details>
+      <details><summary>Wie schnell bin ich benachrichtigt?</summary><p>GitHub führt den Check etwa alle 5 Minuten aus (in Stoßzeiten können es auch 10–15 sein). Dazu kommt die Zeit, bis jemand den Fehler in der Community meldet. Für echte Echtzeit bräuchte es einen eigenen Server.</p></details>
+      <details><summary>Bekomme ich die Ware garantiert?</summary><p>Nein. Händler dürfen Bestellungen zu Preisfehlern stornieren. Bestelle nur, was du auch zum Normalpreis akzeptieren würdest, und plane die Stornierung ein.</p></details>
+      <details><summary>Kostet das etwas?</summary><p>Nein. GitHub Pages, GitHub Actions (öffentliches Repo) und ntfy sind kostenlos.</p></details>
+      <details><summary>Kann ich auch andere Shops bekommen?</summary><p>Ja: Schalte oben auf „Alle Shops“ oder setze in <code>tracker/config.json</code> <code>"notify_only_amazon": false</code>, dann pusht das Radar jeden Shop.</p></details>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Inoffizielles Hobby-Projekt. Alle Angaben ohne Gewähr; Preise zum Zeitpunkt der Meldung. Amazon ist eine Marke von Amazon.com, Inc. – kein Bezug zu Amazon oder zu preis-hunter.de.</p>
+    <p class="tiny">Quellen: mydealz, Preisjäger, DealDoktor (öffentliche RSS-Feeds). Links führen zu den Beiträgen der Communities.</p>
+  </div>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
