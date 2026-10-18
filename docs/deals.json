@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:36:25.124372+00:00",
+ "updated": "2026-10-18T13:31:15.025736+00:00",
  "deals": [
   {
    "id": "https://www.mydealz.de/deals/diesel-preisfehler-dusseldorf-hem-tankstelle-2855553",
@@ -298,21 +298,6 @@
    "category": "Lebensmittel & Haushalt",
    "image": "https://static.mydealz.de/threads/raw/uYWSc/2848964_1/re/150x150/qt/55/2848964_1.jpg",
    "published": "2026-10-05T20:49:47+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/calvin-klein-euphoria-magnetic-elixir-parfum-intense-100ml-2848284",
-   "title": "Calvin Klein Euphoria Magnetic Elixir Parfum Intense 100ml | Preisfehler",
-   "url": "https://www.mydealz.de/deals/calvin-klein-euphoria-magnetic-elixir-parfum-intense-100ml-2848284",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 39.95,
-   "price_text": "39,95€",
-   "category": "Beauty & Gesundheit",
-   "image": "https://static.mydealz.de/threads/raw/a43bK/2848284_1/re/150x150/qt/55/2848284_1.jpg",
-   "published": "2026-10-04T13:19:04+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
