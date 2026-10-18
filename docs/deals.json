@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-18T05:13:31.774024+00:00",
+ "updated": "2026-10-18T09:36:25.124372+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/diesel-preisfehler-dusseldorf-hem-tankstelle-2855553",
+   "title": "DIESEL PREISFEHLER !! DÜSSELDORF HEM TANKSTELLE",
+   "url": "https://www.mydealz.de/deals/diesel-preisfehler-dusseldorf-hem-tankstelle-2855553",
+   "outlink": null,
+   "merchant": "HEM Tankstellen",
+   "amazon": false,
+   "price": 1.45,
+   "price_text": "1,45€",
+   "category": "Auto & Motorrad",
+   "image": "https://static.mydealz.de/threads/raw/47UH6/2855553_1/re/150x150/qt/55/2855553_1.jpg",
+   "published": "2026-10-18T08:16:01+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-intellinet-netzwerkkabel-cat5e-uutp-cca-cat5e-kompatibel-rj45-stecker-auf-rj45-stecker-05m-rot-prime-2853791",
    "title": "Preisfehler: intellinet Netzwerkkabel Cat5e U/UTP CCA Cat5e kompatibel RJ45-Stecker auf RJ45-Stecker, 0,5m rot (Prime)",
