@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-19T06:06:50.140630+00:00",
+ "updated": "2026-10-19T12:58:47.110006+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehlerprivatleasing-dacia-spring-extreme-electric-100-2855966",
+   "title": "[Preisfehler?/Privatleasing] Dacia Spring Extreme Electric 100",
+   "url": "https://www.mydealz.de/deals/preisfehlerprivatleasing-dacia-spring-extreme-electric-100-2855966",
+   "outlink": null,
+   "merchant": "LeasingMarkt",
+   "amazon": false,
+   "price": 450.0,
+   "price_text": "1.450€",
+   "category": "Auto & Motorrad",
+   "image": "https://static.mydealz.de/threads/raw/uSQL1/2855966_1/re/150x150/qt/55/2855966_1.jpg",
+   "published": "2026-10-19T07:29:44+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-esmart-economy-exr-rollo-leinwand-gesamtbreite-177-cm-bildflache-160-90-cm-format-169-fur-heimkino-prasentationen-2855790",
    "title": "ESMART Economy EXR Rollo-Leinwand, Gesamtbreite 177 cm Bildfläche 160 × 90 cm Format 16:9 für Heimkino & Präsentationen",
