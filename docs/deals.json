@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-20T06:06:09.387425+00:00",
+ "updated": "2026-10-20T11:25:11.327696+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/luhomfu-couchtisch-mit-bluetooth-led-licht-und-glasverkleidung-fur-1599eur-xxxlutz-marketplace-2856598",
+   "title": "Preisfehler: Luhomfu Couchtisch mit Bluetooth LED-Licht und Glasverkleidung für 15,99€ (XXXLutz Marketplace)",
+   "url": "https://www.mydealz.de/deals/luhomfu-couchtisch-mit-bluetooth-led-licht-und-glasverkleidung-fur-1599eur-xxxlutz-marketplace-2856598",
+   "outlink": null,
+   "merchant": "XXXLutz",
+   "amazon": false,
+   "price": 15.99,
+   "price_text": "15,99€",
+   "category": "Home & Living",
+   "image": "https://static.mydealz.de/threads/raw/p6per/2856598_1/re/150x150/qt/55/2856598_1.jpg",
+   "published": "2026-10-20T11:13:10+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-mobiclinic-neptuno-faltbarer-transitrollstuhl-aluminium-leicht-inkl-transporttasche-rot-2856536",
+   "title": "[Preisfehler] Mobiclinic Neptuno Faltbarer Transitrollstuhl (Aluminium, leicht, inkl. Transporttasche, Rot)",
+   "url": "https://www.mydealz.de/deals/preisfehler-mobiclinic-neptuno-faltbarer-transitrollstuhl-aluminium-leicht-inkl-transporttasche-rot-2856536",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 12.95,
+   "price_text": "12,95€",
+   "category": "Beauty & Gesundheit",
+   "image": "https://static.mydealz.de/threads/raw/ompvm/2856536_1/re/150x150/qt/55/2856536_1.jpg",
+   "published": "2026-10-20T09:22:08+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehlerprivatleasing-dacia-spring-extreme-electric-100-2855966",
    "title": "[Preisfehler?/Privatleasing] Dacia Spring Extreme Electric 100",
@@ -313,36 +343,6 @@
    "category": "Gaming",
    "image": "https://static.mydealz.de/threads/raw/k7m9d/2849922_1/re/150x150/qt/55/2849922_1.jpg",
    "published": "2026-10-06T13:16:25+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/glow25-collagen-plus-typ-strawberry-3x450g-amazon-prime-preisfehler-2849507",
-   "title": "Glow25 Collagen Plus Typ Strawberry [3x450g] | Amazon Prime | Preisfehler?",
-   "url": "https://www.mydealz.de/deals/glow25-collagen-plus-typ-strawberry-3x450g-amazon-prime-preisfehler-2849507",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 29.95,
-   "price_text": "29,95€",
-   "category": "Beauty & Gesundheit",
-   "image": "https://static.mydealz.de/threads/raw/bFfZJ/2849507_1/re/150x150/qt/55/2849507_1.jpg",
-   "published": "2026-10-06T07:33:00+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-maped-kunststoff-radierer-universal-gom-stick-collector-20-stck-fur-418eur-2849389",
-   "title": "Preisfehler? Maped Kunststoff-Radierer Universal Gom Stick Collector (20 Stck.) für 4,18€",
-   "url": "https://www.mydealz.de/deals/preisfehler-maped-kunststoff-radierer-universal-gom-stick-collector-20-stck-fur-418eur-2849389",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 4.18,
-   "price_text": "4,18€",
-   "category": "Family & Kids",
-   "image": "https://static.mydealz.de/threads/raw/6qEGx/2849389_1/re/150x150/qt/55/2849389_1.jpg",
-   "published": "2026-10-06T06:22:21+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
