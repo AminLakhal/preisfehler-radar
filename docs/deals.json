@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:20:38.706997+00:00",
+ "updated": "2026-10-21T19:22:16.563459+00:00",
  "deals": [
   {
    "id": "https://www.mydealz.de/deals/luhomfu-couchtisch-mit-bluetooth-led-licht-und-glasverkleidung-fur-1599eur-xxxlutz-marketplace-2856598",
@@ -298,21 +298,6 @@
    "category": "Lebensmittel & Haushalt",
    "image": "https://static.mydealz.de/threads/raw/MD94Y/2851171_1/re/150x150/qt/55/2851171_1.jpg",
    "published": "2026-10-08T11:50:16+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/trainingsanzug-herren-einfarbig-xxl-in-grau-2850801",
-   "title": "[Preisfehler] Trainingsanzug Herren Einfarbig XXL in Grau",
-   "url": "https://www.mydealz.de/deals/trainingsanzug-herren-einfarbig-xxl-in-grau-2850801",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 1.52,
-   "price_text": "1,52€",
-   "category": "Fashion & Accessoires",
-   "image": "https://static.mydealz.de/threads/raw/8NRDK/2850801_1/re/150x150/qt/55/2850801_1.jpg",
-   "published": "2026-10-07T16:22:49+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
