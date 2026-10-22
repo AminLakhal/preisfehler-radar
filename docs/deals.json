@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-22T10:20:56.115024+00:00",
+ "updated": "2026-10-22T15:22:44.398782+00:00",
  "deals": [
+  {
+   "id": "https://www.preisjaeger.at/deals/slamp-mida-large-o-67-cm-decken-wandleuchte-fur-315-eur-29-eur-versand-nach-at-skapetze-371077",
+   "title": "Slamp Mida Large (Ø 67 cm) Decken-/Wandleuchte für 315 € + 29 € Versand nach AT (Skapetze)",
+   "url": "https://www.preisjaeger.at/deals/slamp-mida-large-o-67-cm-decken-wandleuchte-fur-315-eur-29-eur-versand-nach-at-skapetze-371077",
+   "outlink": null,
+   "merchant": "",
+   "amazon": false,
+   "price": 315.0,
+   "price_text": "315€",
+   "category": "Home & Living",
+   "image": "https://static.preisjaeger.at/threads/raw/0GXi6/371077_1/re/150x150/qt/55/371077_1.jpg",
+   "published": "2026-10-22T14:20:51+00:00",
+   "source": "Preisjäger Neu",
+   "notified": false
+  },
+  {
+   "id": "https://www.preisjaeger.at/deals/mister-sandman-kaltschaummatratze-371072",
+   "title": "?? Preisfehler ??Mister Sandman KALTSCHAUMMATRATZE",
+   "url": "https://www.preisjaeger.at/deals/mister-sandman-kaltschaummatratze-371072",
+   "outlink": null,
+   "merchant": "",
+   "amazon": false,
+   "price": 9.99,
+   "price_text": "9,99€",
+   "category": "Home & Living",
+   "image": "https://static.preisjaeger.at/threads/raw/5JJto/371072_1/re/150x150/qt/55/371072_1.jpg",
+   "published": "2026-10-22T13:25:29+00:00",
+   "source": "Preisjäger Neu",
+   "notified": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/edeka-tena-2-packungen-fur-nur-059-eur-statt-750-eur-dank-coupon-kombination-preisfehler-2857560",
+   "title": "[ edeka ] TENA: 2 Packungen für nur 0,59 € statt 7,50 € – dank Coupon-Kombination! (Preisfehler?)",
+   "url": "https://www.mydealz.de/deals/edeka-tena-2-packungen-fur-nur-059-eur-statt-750-eur-dank-coupon-kombination-preisfehler-2857560",
+   "outlink": null,
+   "merchant": "EDEKA",
+   "amazon": false,
+   "price": 0.59,
+   "price_text": "0,59€",
+   "category": "Beauty & Gesundheit",
+   "image": "https://static.mydealz.de/threads/raw/iJV8t/2857560_1/re/150x150/qt/55/2857560_1.jpg",
+   "published": "2026-10-22T12:36:50+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-steppjacke-nur-in-m-nur-199eur-inkl-versand-noname-marke-2857319",
    "title": "(Preisfehler) Steppjacke (nur in M) nur 1,99€ inkl. Versand (noName Marke)",
@@ -298,21 +343,6 @@
    "category": "Fashion & Accessoires",
    "image": "https://static.mydealz.de/threads/raw/sDiGA/2851902_1/re/150x150/qt/55/2851902_1.jpg",
    "published": "2026-10-09T19:10:44+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/rauch-eistee-pfirsich-12x-330-ml-dosen-preisfehler-pfandfehler-nur-025-eur-pfand-fur-das-12er-pack-berechnet-2851171",
-   "title": "Rauch Eistee Pfirsich (12x 330 ml Dosen) [Preisfehler | Pfandfehler: nur 0,25 € Pfand für das 12er-Pack berechnet] (Prime)",
-   "url": "https://www.mydealz.de/deals/rauch-eistee-pfirsich-12x-330-ml-dosen-preisfehler-pfandfehler-nur-025-eur-pfand-fur-das-12er-pack-berechnet-2851171",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 8.78,
-   "price_text": "8,78€",
-   "category": "Lebensmittel & Haushalt",
-   "image": "https://static.mydealz.de/threads/raw/MD94Y/2851171_1/re/150x150/qt/55/2851171_1.jpg",
-   "published": "2026-10-08T11:50:16+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
