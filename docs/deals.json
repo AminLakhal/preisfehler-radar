@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-21T22:28:16.763070+00:00",
+ "updated": "2026-10-22T00:47:03.595039+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-steppjacke-nur-in-m-nur-199eur-inkl-versand-noname-marke-2857319",
+   "title": "(Preisfehler) Steppjacke (nur in M) nur 1,99€ inkl. Versand (noName Marke)",
+   "url": "https://www.mydealz.de/deals/preisfehler-steppjacke-nur-in-m-nur-199eur-inkl-versand-noname-marke-2857319",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 1.99,
+   "price_text": "1,99€",
+   "category": "Fashion & Accessoires",
+   "image": "https://static.mydealz.de/threads/raw/NL2Em/2857319_1/re/150x150/qt/55/2857319_1.jpg",
+   "published": "2026-10-22T00:27:50+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/luhomfu-couchtisch-mit-bluetooth-led-licht-und-glasverkleidung-fur-1599eur-xxxlutz-marketplace-2856598",
    "title": "Preisfehler: Luhomfu Couchtisch mit Bluetooth LED-Licht und Glasverkleidung für 15,99€ (XXXLutz Marketplace)",
