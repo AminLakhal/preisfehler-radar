@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-23T10:14:46.958000+00:00",
+ "updated": "2026-10-23T15:04:32.607995+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-backofen-electrolux-kohhh00bx3-edelstahl-2060-watt-58-liter-prime-2858160",
+   "title": "Preisfehler? - Backofen Electrolux KOHHH00BX3 Edelstahl 2060 Watt 58 Liter | Prime",
+   "url": "https://www.mydealz.de/deals/preisfehler-backofen-electrolux-kohhh00bx3-edelstahl-2060-watt-58-liter-prime-2858160",
+   "outlink": "https://www.amazon.de/dp/B0BHF1XW7K",
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 141.86,
+   "price_text": "141,86€",
+   "category": "Home & Living",
+   "image": "https://static.mydealz.de/threads/raw/aHTPx/2858160_1/re/150x150/qt/55/2858160_1.jpg",
+   "published": "2026-10-23T14:27:23+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-rotes-weihnachts-samtkleid-langarm-gr-m-amazon-prime-2857815",
    "title": "Preisfehler: Rotes Weihnachts-Samtkleid Langarm Gr. M (Amazon Prime)",
