@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-23T19:04:59.296853+00:00",
+ "updated": "2026-10-23T22:00:10.706922+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/erwischt-fehler-im-payback-pramienshop-abzug-pro-gutschein-nicht-gesamtsumme-2858293",
+   "title": "Erwischt Gutscheinfehler ( Preisfehler ) im Payback Prämienshop - Abzug pro Gutschein / nicht Gesamtsumme",
+   "url": "https://www.mydealz.de/deals/erwischt-fehler-im-payback-pramienshop-abzug-pro-gutschein-nicht-gesamtsumme-2858293",
+   "outlink": null,
+   "merchant": "PAYBACK",
+   "amazon": false,
+   "price": null,
+   "price_text": "",
+   "category": "Dienstleistungen & Verträge",
+   "image": "https://static.mydealz.de/threads/raw/KKchN/2858293_1/re/150x150/qt/55/2858293_1.jpg",
+   "published": "2026-10-23T20:00:36+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-backofen-electrolux-kohhh00bx3-edelstahl-2060-watt-58-liter-prime-2858160",
    "title": "Preisfehler? - Backofen Electrolux KOHHH00BX3 Edelstahl 2060 Watt 58 Liter | Prime",
@@ -373,21 +388,6 @@
    "category": "Sport & Outdoor",
    "image": "https://static.mydealz.de/threads/raw/DvMp0/2852146_1/re/150x150/qt/55/2852146_1.jpg",
    "published": "2026-10-10T12:55:38+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-10k-goldring-2851902",
-   "title": "Preisfehler 10k Goldring - Größe 9",
-   "url": "https://www.mydealz.de/deals/preisfehler-10k-goldring-2851902",
-   "outlink": null,
-   "merchant": "",
-   "amazon": false,
-   "price": 1.0,
-   "price_text": "1€",
-   "category": "Fashion & Accessoires",
-   "image": "https://static.mydealz.de/threads/raw/sDiGA/2851902_1/re/150x150/qt/55/2851902_1.jpg",
-   "published": "2026-10-09T19:10:44+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
