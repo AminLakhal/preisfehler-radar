@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-24T09:09:00.422592+00:00",
+ "updated": "2026-10-24T13:16:54.745657+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/lokal-kaufland-funk-grill-thermometer-2858489",
+   "title": "[Kaufland Neuköllner Tor Berlin] Preisfehler: Funk-Grill Thermometer, ggf. bundesweit?",
+   "url": "https://www.mydealz.de/deals/lokal-kaufland-funk-grill-thermometer-2858489",
+   "outlink": null,
+   "merchant": "Kaufland",
+   "amazon": false,
+   "price": 0.01,
+   "price_text": "0,01€",
+   "category": "Garten & Baumarkt",
+   "image": "https://static.mydealz.de/threads/raw/HG23c/2858489_1/re/150x150/qt/55/2858489_1.jpg",
+   "published": "2026-10-24T09:59:35+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/erwischt-fehler-im-payback-pramienshop-abzug-pro-gutschein-nicht-gesamtsumme-2858293",
    "title": "Erwischt Gutscheinfehler ( Preisfehler ) im Payback Prämienshop - Abzug pro Gutschein / nicht Gesamtsumme",
@@ -373,21 +388,6 @@
    "category": "Home & Living",
    "image": "https://static.mydealz.de/threads/raw/ESK65/2852410_1/re/150x150/qt/55/2852410_1.jpg",
    "published": "2026-10-11T08:50:09+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-camelbak-sternum-protector-brustschutz-action-cam-halterung-black-299eur-zzgl-vsk-2852146",
-   "title": "(Preisfehler) CAMELBAK Sternum Protector | Brustschutz | Action Cam Halterung | Black | 2,99€ zzgl. VSK",
-   "url": "https://www.mydealz.de/deals/preisfehler-camelbak-sternum-protector-brustschutz-action-cam-halterung-black-299eur-zzgl-vsk-2852146",
-   "outlink": null,
-   "merchant": "Talk-Point",
-   "amazon": false,
-   "price": 8.98,
-   "price_text": "8,98€",
-   "category": "Sport & Outdoor",
-   "image": "https://static.mydealz.de/threads/raw/DvMp0/2852146_1/re/150x150/qt/55/2852146_1.jpg",
-   "published": "2026-10-10T12:55:38+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
