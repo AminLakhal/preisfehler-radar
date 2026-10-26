@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-26T11:16:46.118778+00:00",
+ "updated": "2026-10-26T17:24:42.077659+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/hoogo-s7-graphitgrau-preisfehler-2859575",
+   "title": "Hoogo S7 - Graphitgrau",
+   "url": "https://www.mydealz.de/deals/hoogo-s7-graphitgrau-preisfehler-2859575",
+   "outlink": null,
+   "merchant": "EP Electronic Partner",
+   "amazon": false,
+   "price": 356.99,
+   "price_text": "356,99€",
+   "category": "Home & Living",
+   "image": "https://static.mydealz.de/threads/raw/KdRnC/2859575_1/re/150x150/qt/55/2859575_1.jpg",
+   "published": "2026-10-26T16:03:36+00:00",
+   "source": "mydealz Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-castrol-getriebeol-axle-z-ls-90-1l-fur-2eur-atu-abholung-2859154",
    "title": "Preisfehler : Castrol Getriebeöl Axle Z LS 90 1L für 2€ ATU - Abholung",
@@ -388,36 +403,6 @@
    "category": "Family & Kids",
    "image": "https://static.mydealz.de/threads/raw/XwfzO/2853111_1/re/150x150/qt/55/2853111_1.jpg",
    "published": "2026-10-12T19:14:36+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-lenovo-thinkpad-t16-amd-ryzen-7-pro-6850u-32gb-ram-1tb-ssd-kostenlos-2853063",
-   "title": "Preisfehler: Lenovo ThinkPad T16: AMD Ryzen 7 Pro 6850U, 32GB RAM, 1TB SSD kostenlos (Gewerbe)",
-   "url": "https://www.mydealz.de/deals/preisfehler-lenovo-thinkpad-t16-amd-ryzen-7-pro-6850u-32gb-ram-1tb-ssd-kostenlos-2853063",
-   "outlink": null,
-   "merchant": "group24 AG",
-   "amazon": false,
-   "price": null,
-   "price_text": "",
-   "category": "Elektronik",
-   "image": "https://static.mydealz.de/threads/raw/VB3xB/2853063_1/re/150x150/qt/55/2853063_1.jpg",
-   "published": "2026-10-12T17:08:41+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/zotac-gaming-geforce-rtx-5070-twin-edge-oc-nvidia-grafikkarte-12gb-2852994",
-   "title": "Zotac Gaming GeForce RTX 5070 Twin Edge OC Nvidia Grafikkarte 12GB Preisfehler",
-   "url": "https://www.mydealz.de/deals/zotac-gaming-geforce-rtx-5070-twin-edge-oc-nvidia-grafikkarte-12gb-2852994",
-   "outlink": null,
-   "merchant": "MediaMarkt",
-   "amazon": false,
-   "price": 165.0,
-   "price_text": "165€",
-   "category": "Gaming",
-   "image": "https://static.mydealz.de/threads/raw/ufj3e/2852994_1/re/150x150/qt/55/2852994_1.jpg",
-   "published": "2026-10-12T14:24:43+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
