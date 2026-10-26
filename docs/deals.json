@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-26T17:24:42.077659+00:00",
+ "updated": "2026-10-26T21:42:09.979634+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-koffer-stratic-light-serie-57cm-2859633",
+   "title": "(Preisfehler) Koffer STRATIC LIGHT+-Serie 57cm",
+   "url": "https://www.mydealz.de/deals/preisfehler-koffer-stratic-light-serie-57cm-2859633",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 20.89,
+   "price_text": "20,89€",
+   "category": "Fashion & Accessoires",
+   "image": "https://static.mydealz.de/threads/raw/ecPJ2/2859633_1/re/150x150/qt/55/2859633_1.jpg",
+   "published": "2026-10-26T18:06:24+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/hoogo-s7-graphitgrau-preisfehler-2859575",
    "title": "Hoogo S7 - Graphitgrau",
@@ -388,21 +403,6 @@
    "category": "Family & Kids",
    "image": "https://static.mydealz.de/threads/raw/HhA23/2853475_1/re/150x150/qt/55/2853475_1.jpg",
    "published": "2026-10-13T16:01:31+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/amazon-preisfehler-pelikan-griffix-ergonomische-dreikant-bleistifte-aus-holz-minen-starke-hb-12-stuck-zum-preis-von-2-stuck-2853111",
-   "title": "(Amazon Preisfehler) Pelikan griffix ergonomische Dreikant-Bleistifte aus Holz, Minen-Stärke HB, 12 Stück zum Preis von 2 Stück",
-   "url": "https://www.mydealz.de/deals/amazon-preisfehler-pelikan-griffix-ergonomische-dreikant-bleistifte-aus-holz-minen-starke-hb-12-stuck-zum-preis-von-2-stuck-2853111",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 3.69,
-   "price_text": "3,69€",
-   "category": "Family & Kids",
-   "image": "https://static.mydealz.de/threads/raw/XwfzO/2853111_1/re/150x150/qt/55/2853111_1.jpg",
-   "published": "2026-10-12T19:14:36+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
