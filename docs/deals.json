@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-29T13:46:38.137637+00:00",
+ "updated": "2026-10-29T19:15:15.368466+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-harbr-hotel-ludwigsburg-07-08122026-1-nacht-2861305",
+   "title": "[Preisfehler] HARBR. hotel Ludwigsburg (07.–08.12.2026) – 1 Nacht",
+   "url": "https://www.mydealz.de/deals/preisfehler-harbr-hotel-ludwigsburg-07-08122026-1-nacht-2861305",
+   "outlink": null,
+   "merchant": "",
+   "amazon": false,
+   "price": 15.0,
+   "price_text": "15€",
+   "category": "Urlaub & Reisen",
+   "image": "https://static.mydealz.de/threads/raw/x8ZqW/2861305_1/re/150x150/qt/55/2861305_1.jpg",
+   "published": "2026-10-29T17:01:40+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-oder-ausverkauf-faltpavillon-partyzelt-fur-camping-outdoor-festival-46-m-2861134",
    "title": "Preisfehler oder Ausverkauf: Faltpavillon & Partyzelt für Camping, Outdoor, Festival 4,6 m",
