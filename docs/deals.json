@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-01T06:43:21.557581+00:00",
+ "updated": "2026-11-01T13:47:29.569342+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-stozzon-mundspray-2862776",
+   "title": "*Preisfehler* Stozzon Mundspray",
+   "url": "https://www.mydealz.de/deals/preisfehler-stozzon-mundspray-2862776",
+   "outlink": null,
+   "merchant": "medpex",
+   "amazon": false,
+   "price": 3.61,
+   "price_text": "3,61€",
+   "category": "Beauty & Gesundheit",
+   "image": "https://static.mydealz.de/threads/raw/1NVK2/2862776_1/re/150x150/qt/55/2862776_1.jpg",
+   "published": "2026-11-01T12:55:06+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/penny-lokal-moglicher-preisfehler-mon-cheri-cherry-club-cassis-vodka-157g-fur-nur-195-eur-statt-399-eur-doppelter-rabatt-2862286",
    "title": "[Penny lokal / möglicher Preis fehler] Mon Chéri Cherry Club Cassis-Vodka 157g für nur 1,95 € statt 3,99 € (doppelter Rabatt)",
@@ -494,36 +509,6 @@
    "image": "https://static.mydealz.de/threads/raw/C6lva/2855739_1/re/150x150/qt/55/2855739_1.jpg",
    "published": "2026-10-18T16:25:55+00:00",
    "source": "mydealz Neu",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-keine-abbrechnung-an-kaufland-ladesaule-bergkamem-2855652",
-   "title": "[Preisfehler] Keine Abbrechnung an Kaufland Ladesäule Bergkamem - Lokal",
-   "url": "https://www.mydealz.de/deals/preisfehler-keine-abbrechnung-an-kaufland-ladesaule-bergkamem-2855652",
-   "outlink": null,
-   "merchant": "Kaufland",
-   "amazon": false,
-   "price": null,
-   "price_text": "",
-   "category": "Auto & Motorrad",
-   "image": "https://static.mydealz.de/threads/raw/UCJw6/2855652_1/re/150x150/qt/55/2855652_1.jpg",
-   "published": "2026-10-18T13:16:57+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/diesel-preisfehler-dusseldorf-hem-tankstelle-2855553",
-   "title": "DIESEL PREISFEHLER !! DÜSSELDORF HEM TANKSTELLE",
-   "url": "https://www.mydealz.de/deals/diesel-preisfehler-dusseldorf-hem-tankstelle-2855553",
-   "outlink": null,
-   "merchant": "HEM Tankstellen",
-   "amazon": false,
-   "price": 1.45,
-   "price_text": "1,45€",
-   "category": "Auto & Motorrad",
-   "image": "https://static.mydealz.de/threads/raw/47UH6/2855553_1/re/150x150/qt/55/2855553_1.jpg",
-   "published": "2026-10-18T08:16:01+00:00",
-   "source": "mydealz Preisfehler",
    "notified": false
   }
  ]
