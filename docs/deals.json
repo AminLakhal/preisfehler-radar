@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-01T13:47:29.569342+00:00",
+ "updated": "2026-11-01T18:36:35.109245+00:00",
  "deals": [
+  {
+   "id": "https://www.preisjaeger.at/deals/preisfehler-home24-kommode-aus-massiver-wildeiche-80x89x40cm-4-schubladen-371685",
+   "title": "(Preisfehler?) home24 Kommode aus massiver Wildeiche (80x89x40cm, 4 Schubladen)",
+   "url": "https://www.preisjaeger.at/deals/preisfehler-home24-kommode-aus-massiver-wildeiche-80x89x40cm-4-schubladen-371685",
+   "outlink": null,
+   "merchant": "XXXLutz",
+   "amazon": false,
+   "price": 99.0,
+   "price_text": "99€",
+   "category": "Home & Living",
+   "image": "https://static.preisjaeger.at/threads/raw/lp2a5/371685_1/re/150x150/qt/55/371685_1.jpg",
+   "published": "2026-11-01T14:44:48+00:00",
+   "source": "Preisjäger Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-stozzon-mundspray-2862776",
    "title": "*Preisfehler* Stozzon Mundspray",
@@ -479,36 +494,6 @@
    "image": "https://static.mydealz.de/threads/raw/uSQL1/2855966_1/re/150x150/qt/55/2855966_1.jpg",
    "published": "2026-10-19T07:29:44+00:00",
    "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-esmart-economy-exr-rollo-leinwand-gesamtbreite-177-cm-bildflache-160-90-cm-format-169-fur-heimkino-prasentationen-2855790",
-   "title": "ESMART Economy EXR Rollo-Leinwand, Gesamtbreite 177 cm Bildfläche 160 × 90 cm Format 16:9 für Heimkino & Präsentationen",
-   "url": "https://www.mydealz.de/deals/preisfehler-esmart-economy-exr-rollo-leinwand-gesamtbreite-177-cm-bildflache-160-90-cm-format-169-fur-heimkino-prasentationen-2855790",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 114.98,
-   "price_text": "114,98€",
-   "category": "Elektronik",
-   "image": "https://static.mydealz.de/threads/raw/JYY4d/2855790_1/re/150x150/qt/55/2855790_1.jpg",
-   "published": "2026-10-18T18:24:47+00:00",
-   "source": "mydealz Neu",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/blue-brixx-adventskaleder-2855739",
-   "title": "Blue Brixx Adventskaleder",
-   "url": "https://www.mydealz.de/deals/blue-brixx-adventskaleder-2855739",
-   "outlink": null,
-   "merchant": "Blue Brixx",
-   "amazon": false,
-   "price": 37.95,
-   "price_text": "37,95€",
-   "category": "Home & Living",
-   "image": "https://static.mydealz.de/threads/raw/C6lva/2855739_1/re/150x150/qt/55/2855739_1.jpg",
-   "published": "2026-10-18T16:25:55+00:00",
-   "source": "mydealz Neu",
    "notified": false
   }
  ]
