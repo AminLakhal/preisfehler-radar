@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-02T08:11:41.066006+00:00",
+ "updated": "2026-11-02T18:16:24.577743+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/kaufland-michelin-reifenpannenspray-mad-dock-insektenentferner-auslistung-2863659",
+   "title": "Kaufland Metzingen- Michelin Reifenpannenspray / Mad Docs Insektenentferner | Auslistung / Preisfehler LOKAL",
+   "url": "https://www.mydealz.de/deals/kaufland-michelin-reifenpannenspray-mad-dock-insektenentferner-auslistung-2863659",
+   "outlink": null,
+   "merchant": "Kaufland",
+   "amazon": false,
+   "price": 0.01,
+   "price_text": "0,01€",
+   "category": "Auto & Motorrad",
+   "image": "https://static.mydealz.de/threads/raw/U3kMM/2863659_1/re/150x150/qt/55/2863659_1.jpg",
+   "published": "2026-11-02T17:26:51+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.preisjaeger.at/deals/preisfehler-home24-kommode-aus-massiver-wildeiche-80x89x40cm-4-schubladen-371685",
    "title": "(Preisfehler?) home24 Kommode aus massiver Wildeiche (80x89x40cm, 4 Schubladen)",
