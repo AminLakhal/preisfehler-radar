@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-03T15:27:30.776940+00:00",
+ "updated": "2026-11-03T21:10:35.917704+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-lidl-lammfilet-2864343",
+   "title": "Preisfehler Lidl Lammfilet",
+   "url": "https://www.mydealz.de/deals/preisfehler-lidl-lammfilet-2864343",
+   "outlink": null,
+   "merchant": "Lidl",
+   "amazon": false,
+   "price": null,
+   "price_text": "",
+   "category": "Lebensmittel & Haushalt",
+   "image": "https://static.mydealz.de/threads/raw/6axJX/2864343_1/re/150x150/qt/55/2864343_1.jpg",
+   "published": "2026-11-03T18:22:42+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/kettler-push-up-bars-preisfehler-2863960",
    "title": "Kettler Push Up Bars (Preisfehler)",
