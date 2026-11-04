@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-04T15:42:05.133516+00:00",
+ "updated": "2026-11-04T21:29:42.707958+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-floordirekt-kuchen-mulleimer-mit-230l-in-rot-2-fach-mulltrennung-fur-2990eur-statt-113eur-2864972",
+   "title": "Preisfehler? Floordirekt Küchen Mülleimer mit 2×30L in Rot (2-Fach Mülltrennung) für 29,90€ (statt 113€)",
+   "url": "https://www.mydealz.de/deals/preisfehler-floordirekt-kuchen-mulleimer-mit-230l-in-rot-2-fach-mulltrennung-fur-2990eur-statt-113eur-2864972",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 39.8,
+   "price_text": "39,80€",
+   "category": "Home & Living",
+   "image": "https://static.mydealz.de/threads/raw/Q7pkW/2864972_1/re/150x150/qt/55/2864972_1.jpg",
+   "published": "2026-11-04T21:10:20+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-lidl-lammfilet-2864343",
    "title": "Preisfehler Lidl Lammfilet",
