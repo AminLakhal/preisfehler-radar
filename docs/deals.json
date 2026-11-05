@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:29:42.707958+00:00",
+ "updated": "2026-11-05T01:40:29.873520+00:00",
  "deals": [
   {
    "id": "https://www.mydealz.de/deals/preisfehler-floordirekt-kuchen-mulleimer-mit-230l-in-rot-2-fach-mulltrennung-fur-2990eur-statt-113eur-2864972",
@@ -523,21 +523,6 @@
    "category": "Beauty & Gesundheit",
    "image": "https://static.mydealz.de/threads/raw/iJV8t/2857560_1/re/150x150/qt/55/2857560_1.jpg",
    "published": "2026-10-22T12:36:50+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-steppjacke-nur-in-m-nur-199eur-inkl-versand-noname-marke-2857319",
-   "title": "(Preisfehler) Steppjacke (nur in M) nur 1,99€ inkl. Versand (noName Marke)",
-   "url": "https://www.mydealz.de/deals/preisfehler-steppjacke-nur-in-m-nur-199eur-inkl-versand-noname-marke-2857319",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 1.99,
-   "price_text": "1,99€",
-   "category": "Fashion & Accessoires",
-   "image": "https://static.mydealz.de/threads/raw/NL2Em/2857319_1/re/150x150/qt/55/2857319_1.jpg",
-   "published": "2026-10-22T00:27:50+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
