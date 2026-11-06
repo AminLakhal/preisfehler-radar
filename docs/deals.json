@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T09:36:02.589327+00:00",
+ "updated": "2026-11-06T16:54:48.591613+00:00",
  "deals": [
   {
    "id": "https://www.mydealz.de/deals/parkside-20v-4ah-akku-pap-20-b3-fur-nur-999-eur-statt-1999-eur-kaufland-card-xtra-preisfehler-2865776",
@@ -463,21 +463,6 @@
    "category": "Dienstleistungen & Verträge",
    "image": "https://static.mydealz.de/threads/raw/KKchN/2858293_1/re/150x150/qt/55/2858293_1.jpg",
    "published": "2026-10-23T20:00:36+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-backofen-electrolux-kohhh00bx3-edelstahl-2060-watt-58-liter-prime-2858160",
-   "title": "Preisfehler? - Backofen Electrolux KOHHH00BX3 Edelstahl 2060 Watt 58 Liter | Prime",
-   "url": "https://www.mydealz.de/deals/preisfehler-backofen-electrolux-kohhh00bx3-edelstahl-2060-watt-58-liter-prime-2858160",
-   "outlink": "https://www.amazon.de/dp/B0BHF1XW7K",
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 141.86,
-   "price_text": "141,86€",
-   "category": "Home & Living",
-   "image": "https://static.mydealz.de/threads/raw/aHTPx/2858160_1/re/150x150/qt/55/2858160_1.jpg",
-   "published": "2026-10-23T14:27:23+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
