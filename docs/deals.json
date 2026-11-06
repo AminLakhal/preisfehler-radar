@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-06T02:26:42.342025+00:00",
+ "updated": "2026-11-06T09:36:02.589327+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/parkside-20v-4ah-akku-pap-20-b3-fur-nur-999-eur-statt-1999-eur-kaufland-card-xtra-preisfehler-2865776",
+   "title": "PARKSIDE 20V 4Ah Akku (PAP 20 B3) für nur 9,99 € statt 19,99 € [Kaufland Card XTRA]",
+   "url": "https://www.mydealz.de/deals/parkside-20v-4ah-akku-pap-20-b3-fur-nur-999-eur-statt-1999-eur-kaufland-card-xtra-preisfehler-2865776",
+   "outlink": null,
+   "merchant": "Kaufland",
+   "amazon": false,
+   "price": 9.99,
+   "price_text": "9,99€",
+   "category": "Garten & Baumarkt",
+   "image": "https://static.mydealz.de/threads/raw/5BUXp/2865776_1/re/150x150/qt/55/2865776_1.jpg",
+   "published": "2026-11-06T09:23:05+00:00",
+   "source": "mydealz Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-lidl-lokal-bruchhausen-vilsen-parkside20v-schlagbohrschrauber-psbsap-20-li-c3-2-akkus-ladegerat-alu-koffer-zubehor-2865154",
    "title": "Preisfehler [Lidl Lokal Bruchhausen Vilsen] PARKSIDE20V Schlagbohrschrauber PSBSAP 20-Li C3, 2 Akkus + Ladegerät + Alu-Koffer + Zubehör",
