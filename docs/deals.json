@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:15:05.128186+00:00",
+ "updated": "2026-11-06T02:26:42.342025+00:00",
  "deals": [
   {
    "id": "https://www.mydealz.de/deals/preisfehler-lidl-lokal-bruchhausen-vilsen-parkside20v-schlagbohrschrauber-psbsap-20-li-c3-2-akkus-ladegerat-alu-koffer-zubehor-2865154",
@@ -463,36 +463,6 @@
    "category": "Home & Living",
    "image": "https://static.mydealz.de/threads/raw/aHTPx/2858160_1/re/150x150/qt/55/2858160_1.jpg",
    "published": "2026-10-23T14:27:23+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-rotes-weihnachts-samtkleid-langarm-gr-m-amazon-prime-2857815",
-   "title": "Preisfehler: Rotes Weihnachts-Samtkleid Langarm Gr. M (Amazon Prime)",
-   "url": "https://www.mydealz.de/deals/preisfehler-rotes-weihnachts-samtkleid-langarm-gr-m-amazon-prime-2857815",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 0.99,
-   "price_text": "0,99€",
-   "category": "Fashion & Accessoires",
-   "image": "https://static.mydealz.de/threads/raw/cOTRf/2857815_1/re/150x150/qt/55/2857815_1.jpg",
-   "published": "2026-10-23T00:07:06+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/midyou-eckschreibtisch-silberfarben-weiss-eiche-artisan-185100727767-cm-preisfehler-2857800",
-   "title": "MID.YOU ECKSCHREIBTISCH Silberfarben, Weiß, Eiche Artisan - 185/100/72/77/67 cm - elektrisch höhenverstellbar - Preisfehler",
-   "url": "https://www.mydealz.de/deals/midyou-eckschreibtisch-silberfarben-weiss-eiche-artisan-185100727767-cm-preisfehler-2857800",
-   "outlink": null,
-   "merchant": "XXXLutz",
-   "amazon": false,
-   "price": 159.89,
-   "price_text": "159,89€",
-   "category": "Home & Living",
-   "image": "https://static.mydealz.de/threads/raw/MLJU4/2857800_1/re/150x150/qt/55/2857800_1.jpg",
-   "published": "2026-10-22T22:19:12+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
