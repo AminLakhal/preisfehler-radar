@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:54:48.591613+00:00",
+ "updated": "2026-11-06T21:48:13.992091+00:00",
  "deals": [
   {
    "id": "https://www.mydealz.de/deals/parkside-20v-4ah-akku-pap-20-b3-fur-nur-999-eur-statt-1999-eur-kaufland-card-xtra-preisfehler-2865776",
@@ -448,21 +448,6 @@
    "category": "Garten & Baumarkt",
    "image": "https://static.mydealz.de/threads/raw/HG23c/2858489_1/re/150x150/qt/55/2858489_1.jpg",
    "published": "2026-10-24T09:59:35+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/erwischt-fehler-im-payback-pramienshop-abzug-pro-gutschein-nicht-gesamtsumme-2858293",
-   "title": "Erwischt Gutscheinfehler ( Preisfehler ) im Payback Prämienshop - Abzug pro Gutschein / nicht Gesamtsumme",
-   "url": "https://www.mydealz.de/deals/erwischt-fehler-im-payback-pramienshop-abzug-pro-gutschein-nicht-gesamtsumme-2858293",
-   "outlink": null,
-   "merchant": "PAYBACK",
-   "amazon": false,
-   "price": null,
-   "price_text": "",
-   "category": "Dienstleistungen & Verträge",
-   "image": "https://static.mydealz.de/threads/raw/KKchN/2858293_1/re/150x150/qt/55/2858293_1.jpg",
-   "published": "2026-10-23T20:00:36+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
