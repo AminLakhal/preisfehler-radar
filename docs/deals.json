@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-06T21:48:13.992091+00:00",
+ "updated": "2026-11-07T01:17:20.067710+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/amazon-playstation-5-pro-zur-uvp-verfugbarkeits-deal-2866217",
+   "title": "[Amazon] PlayStation 5 Pro zur UVP - Verfügbarkeits-Deal",
+   "url": "https://www.mydealz.de/deals/amazon-playstation-5-pro-zur-uvp-verfugbarkeits-deal-2866217",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 899.99,
+   "price_text": "899,99€",
+   "category": "Gaming",
+   "image": "https://static.mydealz.de/threads/raw/Ei1Zk/2866217_1/re/150x150/qt/55/2866217_1.jpg",
+   "published": "2026-11-06T23:03:40+00:00",
+   "source": "mydealz Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/parkside-20v-4ah-akku-pap-20-b3-fur-nur-999-eur-statt-1999-eur-kaufland-card-xtra-preisfehler-2865776",
    "title": "PARKSIDE 20V 4Ah Akku (PAP 20 B3) für nur 9,99 € statt 19,99 € [Kaufland Card XTRA]",
