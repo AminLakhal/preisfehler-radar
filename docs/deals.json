@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-07T07:14:04.926203+00:00",
+ "updated": "2026-11-07T14:00:59.103593+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-10-kilo-rote-orangen-blutorangen-fur-1756eur-bzw-20-kilo-mit-kwk-fur-2512eur-126eurkilo-crowdfarming-2866406",
+   "title": "Preisfehler? 10 Kilo Rote Orangen (Blutorangen) bei Adoption für 17,56€ bzw. 20 Kilo mit KWK für 25,12€ = 1,26€/Kilo! Crowdfarming",
+   "url": "https://www.mydealz.de/deals/preisfehler-10-kilo-rote-orangen-blutorangen-fur-1756eur-bzw-20-kilo-mit-kwk-fur-2512eur-126eurkilo-crowdfarming-2866406",
+   "outlink": null,
+   "merchant": "CrowdFarming",
+   "amazon": false,
+   "price": 25.12,
+   "price_text": "25,12€",
+   "category": "Lebensmittel & Haushalt",
+   "image": "https://static.mydealz.de/threads/raw/DfFXI/2866406_1/re/150x150/qt/55/2866406_1.jpg",
+   "published": "2026-11-07T11:44:38+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/amazon-playstation-5-pro-zur-uvp-verfugbarkeits-deal-2866217",
    "title": "[Amazon] PlayStation 5 Pro zur UVP - Verfügbarkeits-Deal",
@@ -448,21 +463,6 @@
    "category": "Gaming",
    "image": "https://static.mydealz.de/threads/raw/RgtbJ/2858705_1/re/150x150/qt/55/2858705_1.jpg",
    "published": "2026-10-24T23:54:22+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/lokal-kaufland-funk-grill-thermometer-2858489",
-   "title": "[Kaufland Neuköllner Tor Berlin] Preisfehler: Funk-Grill Thermometer, ggf. bundesweit?",
-   "url": "https://www.mydealz.de/deals/lokal-kaufland-funk-grill-thermometer-2858489",
-   "outlink": null,
-   "merchant": "Kaufland",
-   "amazon": false,
-   "price": 0.01,
-   "price_text": "0,01€",
-   "category": "Garten & Baumarkt",
-   "image": "https://static.mydealz.de/threads/raw/HG23c/2858489_1/re/150x150/qt/55/2858489_1.jpg",
-   "published": "2026-10-24T09:59:35+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
