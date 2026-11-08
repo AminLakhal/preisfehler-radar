@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-08T01:24:22.482335+00:00",
+ "updated": "2026-11-08T07:31:46.766997+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/75kg-3x-25kg-myprotein-essential-shake-9eurkg-whey-magermilchpulver-58-62g-protein-pro-100g-je-nach-sorte-2866713",
+   "title": "7.5kg (3x 2.5kg) Myprotein Essential Shake (9€/kg, Whey + Magermilchpulver, 58-62g Protein pro 100g je nach Sorte)",
+   "url": "https://www.mydealz.de/deals/75kg-3x-25kg-myprotein-essential-shake-9eurkg-whey-magermilchpulver-58-62g-protein-pro-100g-je-nach-sorte-2866713",
+   "outlink": null,
+   "merchant": "Myprotein",
+   "amazon": false,
+   "price": 67.5,
+   "price_text": "67,50€",
+   "category": "Sport & Outdoor",
+   "image": "https://static.mydealz.de/threads/raw/JvzrQ/2866713_1/re/150x150/qt/55/2866713_1.jpg",
+   "published": "2026-11-08T05:38:57+00:00",
+   "source": "mydealz Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-10-kilo-rote-orangen-blutorangen-fur-1756eur-bzw-20-kilo-mit-kwk-fur-2512eur-126eurkilo-crowdfarming-2866406",
    "title": "Preisfehler? 10 Kilo Rote Orangen (Blutorangen) bei Adoption für 17,56€ bzw. 20 Kilo mit KWK für 25,12€ = 1,26€/Kilo! Crowdfarming",
@@ -433,21 +448,6 @@
    "category": "Fashion & Accessories",
    "image": "https://static.preisjaeger.at/threads/raw/KKgLr/371219_1/re/150x150/qt/55/371219_1.jpg",
    "published": "2026-10-25T11:07:15+00:00",
-   "source": "Preisjäger Neu",
-   "notified": false
-  },
-  {
-   "id": "https://www.preisjaeger.at/deals/samsung-qe83s85faexxh-371197",
-   "title": "Samsung QE83S85FAEXXH",
-   "url": "https://www.preisjaeger.at/deals/samsung-qe83s85faexxh-371197",
-   "outlink": null,
-   "merchant": "akatronik",
-   "amazon": false,
-   "price": 299.0,
-   "price_text": "1.299€",
-   "category": "Elektronik",
-   "image": "https://static.preisjaeger.at/threads/raw/CfBph/371197_1/re/150x150/qt/55/371197_1.jpg",
-   "published": "2026-10-25T06:42:09+00:00",
    "source": "Preisjäger Neu",
    "notified": false
   }
