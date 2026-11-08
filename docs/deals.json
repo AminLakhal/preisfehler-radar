@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:11:42.303417+00:00",
+ "updated": "2026-11-08T01:24:22.482335+00:00",
  "deals": [
   {
    "id": "https://www.mydealz.de/deals/preisfehler-10-kilo-rote-orangen-blutorangen-fur-1756eur-bzw-20-kilo-mit-kwk-fur-2512eur-126eurkilo-crowdfarming-2866406",
@@ -449,21 +449,6 @@
    "image": "https://static.preisjaeger.at/threads/raw/CfBph/371197_1/re/150x150/qt/55/371197_1.jpg",
    "published": "2026-10-25T06:42:09+00:00",
    "source": "Preisjäger Neu",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-freebies-bandai-namco-store-kostenlos-alle-artikeln-aus-dem-pramie-shop-bestellen-2858705",
-   "title": "[Preisfehler] [Freebies] Bandai Namco Store - Kostenlos Alle Artikeln aus dem Prämie Shop bestellen",
-   "url": "https://www.mydealz.de/deals/preisfehler-freebies-bandai-namco-store-kostenlos-alle-artikeln-aus-dem-pramie-shop-bestellen-2858705",
-   "outlink": null,
-   "merchant": "Bandai Namco",
-   "amazon": false,
-   "price": null,
-   "price_text": "",
-   "category": "Gaming",
-   "image": "https://static.mydealz.de/threads/raw/RgtbJ/2858705_1/re/150x150/qt/55/2858705_1.jpg",
-   "published": "2026-10-24T23:54:22+00:00",
-   "source": "mydealz Preisfehler",
    "notified": false
   }
  ]
