@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-08T18:55:38.414842+00:00",
+ "updated": "2026-11-08T22:34:35.686783+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-travelite-skaii-kofferset-sml-mit-3-koffern-2867032",
+   "title": "Preisfehler: Travelite SKAII Kofferset (S/M/L) mit 3 Koffern",
+   "url": "https://www.mydealz.de/deals/preisfehler-travelite-skaii-kofferset-sml-mit-3-koffern-2867032",
+   "outlink": null,
+   "merchant": "Kaufland",
+   "amazon": false,
+   "price": 158.99,
+   "price_text": "158,99€",
+   "category": "Fashion & Accessoires",
+   "image": "https://static.mydealz.de/threads/raw/lPDXT/2867032_1/re/150x150/qt/55/2867032_1.jpg",
+   "published": "2026-11-08T21:08:20+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/75kg-3x-25kg-myprotein-essential-shake-9eurkg-whey-magermilchpulver-58-62g-protein-pro-100g-je-nach-sorte-2866713",
    "title": "7.5kg (3x 2.5kg) Myprotein Essential Shake (9€/kg, Whey + Magermilchpulver, 58-62g Protein pro 100g je nach Sorte)",
@@ -389,21 +404,6 @@
    "image": "https://static.mydealz.de/threads/raw/KdRnC/2859575_1/re/150x150/qt/55/2859575_1.jpg",
    "published": "2026-10-26T16:03:36+00:00",
    "source": "mydealz Neu",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-castrol-getriebeol-axle-z-ls-90-1l-fur-2eur-atu-abholung-2859154",
-   "title": "Preisfehler : Castrol Getriebeöl Axle Z LS 90 1L für 2€ ATU - Abholung",
-   "url": "https://www.mydealz.de/deals/preisfehler-castrol-getriebeol-axle-z-ls-90-1l-fur-2eur-atu-abholung-2859154",
-   "outlink": null,
-   "merchant": "A.T.U",
-   "amazon": false,
-   "price": 2.0,
-   "price_text": "2€",
-   "category": "Auto & Motorrad",
-   "image": "https://static.mydealz.de/threads/raw/cJFLK/2859154_1/re/150x150/qt/55/2859154_1.jpg",
-   "published": "2026-10-25T21:18:09+00:00",
-   "source": "mydealz Preisfehler",
    "notified": false
   }
  ]
