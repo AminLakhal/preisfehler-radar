@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-09T08:44:34.100606+00:00",
+ "updated": "2026-11-09T19:10:03.936699+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-layenberger-2867517",
+   "title": "Preisfehler Layenberger [Rossmann]",
+   "url": "https://www.mydealz.de/deals/preisfehler-layenberger-2867517",
+   "outlink": null,
+   "merchant": "ROSSMANN",
+   "amazon": false,
+   "price": 7.7,
+   "price_text": "7,70€",
+   "category": "Sport & Outdoor",
+   "image": "https://static.mydealz.de/threads/raw/fE65f/2867517_1/re/150x150/qt/55/2867517_1.jpg",
+   "published": "2026-11-09T15:56:11+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/rubbermaid-brute-abfallbehalter-weiss-grosse-1665-liter-preisfehler-2867262",
+   "title": "Rubbermaid BRUTE Abfallbehälter, weiß – Größe: 166,5 Liter - Preisfehler",
+   "url": "https://www.mydealz.de/deals/rubbermaid-brute-abfallbehalter-weiss-grosse-1665-liter-preisfehler-2867262",
+   "outlink": null,
+   "merchant": "Hygi",
+   "amazon": false,
+   "price": 28.85,
+   "price_text": "28,85€",
+   "category": "Home & Living",
+   "image": "https://static.mydealz.de/threads/raw/dsCsG/2867262_1/re/150x150/qt/55/2867262_1.jpg",
+   "published": "2026-11-09T09:05:09+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/moglicher-preisfehler-bei-amazon-jacke-2867220",
    "title": "(seek-LWE@Amazon) Möglicher Preisfehler bei Amazon – Jacke",
@@ -404,36 +434,6 @@
    "image": "https://static.mydealz.de/threads/raw/aEy19/2859799_1/re/150x150/qt/55/2859799_1.jpg",
    "published": "2026-10-27T07:17:21+00:00",
    "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-koffer-stratic-light-serie-57cm-2859633",
-   "title": "(Preisfehler) Koffer STRATIC LIGHT+-Serie 57cm",
-   "url": "https://www.mydealz.de/deals/preisfehler-koffer-stratic-light-serie-57cm-2859633",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 20.89,
-   "price_text": "20,89€",
-   "category": "Fashion & Accessoires",
-   "image": "https://static.mydealz.de/threads/raw/ecPJ2/2859633_1/re/150x150/qt/55/2859633_1.jpg",
-   "published": "2026-10-26T18:06:24+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/hoogo-s7-graphitgrau-preisfehler-2859575",
-   "title": "Hoogo S7 - Graphitgrau",
-   "url": "https://www.mydealz.de/deals/hoogo-s7-graphitgrau-preisfehler-2859575",
-   "outlink": null,
-   "merchant": "EP Electronic Partner",
-   "amazon": false,
-   "price": 356.99,
-   "price_text": "356,99€",
-   "category": "Home & Living",
-   "image": "https://static.mydealz.de/threads/raw/KdRnC/2859575_1/re/150x150/qt/55/2859575_1.jpg",
-   "published": "2026-10-26T16:03:36+00:00",
-   "source": "mydealz Neu",
    "notified": false
   }
  ]
