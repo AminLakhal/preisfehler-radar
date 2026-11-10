@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-10T17:12:49.291482+00:00",
+ "updated": "2026-11-10T22:21:46.584455+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-bei-babyone-zb-kissen-fur-babybett-bettschlange-jersey-little-goose-2868497",
+   "title": "Preisfehler bei BabyOne, z.b. Kissen für Babybett \"Bettschlange Jersey Little Goose\"",
+   "url": "https://www.mydealz.de/deals/preisfehler-bei-babyone-zb-kissen-fur-babybett-bettschlange-jersey-little-goose-2868497",
+   "outlink": null,
+   "merchant": "BabyOne",
+   "amazon": false,
+   "price": 4.99,
+   "price_text": "4,99€",
+   "category": "Family & Kids",
+   "image": "https://static.mydealz.de/threads/raw/RsmmX/2868497_1/re/150x150/qt/55/2868497_1.jpg",
+   "published": "2026-11-10T20:11:16+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-scoopers-energy-pouches-geschmack-spicy-cherey-2868428",
+   "title": "(QF Shop@Amazon) Preisfehler Scoopers Energy Pouches Geschmack Spicy Cherey",
+   "url": "https://www.mydealz.de/deals/preisfehler-scoopers-energy-pouches-geschmack-spicy-cherey-2868428",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 7.79,
+   "price_text": "7,79€",
+   "category": "Sport & Outdoor",
+   "image": "https://static.mydealz.de/threads/raw/puonD/2868428_1/re/150x150/qt/55/2868428_1.jpg",
+   "published": "2026-11-10T18:51:28+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-pietrapura-mandus-primitivo-di-manduria-dop-rotwein-italien-trocken-1-x-075-l-packung-mit-6-prime-2868351",
+   "title": "Preisfehler! PietraPura Mandus Primitivo di Manduria DOP Rotwein Italien trocken (1 x 0.75 l) (Packung mit 6) PRIME",
+   "url": "https://www.mydealz.de/deals/preisfehler-pietrapura-mandus-primitivo-di-manduria-dop-rotwein-italien-trocken-1-x-075-l-packung-mit-6-prime-2868351",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 25.17,
+   "price_text": "25,17€",
+   "category": "Lebensmittel & Haushalt",
+   "image": "https://static.mydealz.de/threads/raw/uSANi/2868351_1/re/150x150/qt/55/2868351_1.jpg",
+   "published": "2026-11-10T17:00:58+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/12-paar-stronghand-winter-aqua-guard-arbeitshandschuhe-grosse-9-fur-1875-eur-nur-156-eur-pro-paar-2868345",
    "title": "12 Paar STRONGHAND Winter Aqua Guard Arbeitshandschuhe (Größe 9) für 18,75 € – nur 1,56 € pro Paar (Prime)",
