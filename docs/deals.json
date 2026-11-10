@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T02:01:33.103370+00:00",
+ "updated": "2026-11-10T09:29:47.941090+00:00",
  "deals": [
   {
    "id": "https://www.mydealz.de/deals/preisfehler-layenberger-2867517",
@@ -418,21 +418,6 @@
    "category": "Telefon- & Internet-Verträge",
    "image": "https://static.mydealz.de/threads/raw/YaYVa/2860401_1/re/150x150/qt/55/2860401_1.jpg",
    "published": "2026-10-28T07:57:32+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/10-stuck-ngk-5422-zundkerze-preisfehler-2859799",
-   "title": "10 Stück NGK 5422 Zündkerze (Preisfehler?)",
-   "url": "https://www.mydealz.de/deals/10-stuck-ngk-5422-zundkerze-preisfehler-2859799",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 4.59,
-   "price_text": "4,59€",
-   "category": "Auto & Motorrad",
-   "image": "https://static.mydealz.de/threads/raw/aEy19/2859799_1/re/150x150/qt/55/2859799_1.jpg",
-   "published": "2026-10-27T07:17:21+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
