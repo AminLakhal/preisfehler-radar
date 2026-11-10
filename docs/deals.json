@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-10T09:29:47.941090+00:00",
+ "updated": "2026-11-10T17:12:49.291482+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/12-paar-stronghand-winter-aqua-guard-arbeitshandschuhe-grosse-9-fur-1875-eur-nur-156-eur-pro-paar-2868345",
+   "title": "12 Paar STRONGHAND Winter Aqua Guard Arbeitshandschuhe (Größe 9) für 18,75 € – nur 1,56 € pro Paar (Prime)",
+   "url": "https://www.mydealz.de/deals/12-paar-stronghand-winter-aqua-guard-arbeitshandschuhe-grosse-9-fur-1875-eur-nur-156-eur-pro-paar-2868345",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 18.75,
+   "price_text": "18,75€",
+   "category": "Garten & Baumarkt",
+   "image": "https://static.mydealz.de/threads/raw/iqGFD/2868345_1/re/150x150/qt/55/2868345_1.jpg",
+   "published": "2026-11-10T16:51:12+00:00",
+   "source": "mydealz Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-layenberger-2867517",
    "title": "Preisfehler Layenberger [Rossmann]",
