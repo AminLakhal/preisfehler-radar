@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-12T11:49:58.966865+00:00",
+ "updated": "2026-11-12T19:11:34.329758+00:00",
  "deals": [
+  {
+   "id": "https://www.preisjaeger.at/deals/kaffeevollautomat-primadonna-aromatic-ecam63075tsm-at-ebay-372339",
+   "title": "Kaffeevollautomat De'Longhi PrimaDonna Aromatic ECAM630.75.TSM @ eBay",
+   "url": "https://www.preisjaeger.at/deals/kaffeevollautomat-primadonna-aromatic-ecam63075tsm-at-ebay-372339",
+   "outlink": null,
+   "merchant": "eBay",
+   "amazon": false,
+   "price": 959.9,
+   "price_text": "959,90€",
+   "category": "Home & Living",
+   "image": "https://static.preisjaeger.at/threads/raw/QHeQN/372339_1/re/150x150/qt/55/372339_1.jpg",
+   "published": "2026-11-12T14:36:17+00:00",
+   "source": "Preisjäger Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-bei-babyone-zb-kissen-fur-babybett-bettschlange-jersey-little-goose-2868497",
    "title": "Preisfehler bei BabyOne, z.b. Kissen für Babybett \"Bettschlange Jersey Little Goose\"",
@@ -344,21 +359,6 @@
    "image": "https://static.mydealz.de/threads/raw/Oi3E4/2862286_1/re/150x150/qt/55/2862286_1.jpg",
    "published": "2026-10-31T17:59:02+00:00",
    "source": "mydealz Neu",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-harbr-hotel-ludwigsburg-07-08122026-1-nacht-2861305",
-   "title": "[Preisfehler] HARBR. hotel Ludwigsburg (07.–08.12.2026) – 1 Nacht",
-   "url": "https://www.mydealz.de/deals/preisfehler-harbr-hotel-ludwigsburg-07-08122026-1-nacht-2861305",
-   "outlink": null,
-   "merchant": "",
-   "amazon": false,
-   "price": 15.0,
-   "price_text": "15€",
-   "category": "Urlaub & Reisen",
-   "image": "https://static.mydealz.de/threads/raw/x8ZqW/2861305_1/re/150x150/qt/55/2861305_1.jpg",
-   "published": "2026-10-29T17:01:40+00:00",
-   "source": "mydealz Preisfehler",
    "notified": false
   }
  ]
