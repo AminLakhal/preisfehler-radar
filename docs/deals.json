@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-13T06:50:58.991340+00:00",
+ "updated": "2026-11-13T14:56:33.058536+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/tillvex-gastro-stehtisch-klappbar-o70cm-mit-husse-weiss-fertig-montiert-fur-1790eur-statt-o-70eur-preisfehler-amazon-2870513",
+   "title": "tillvex Gastro Stehtisch klappbar Ø70cm mit Husse (Weiß) – FERTIG MONTIERT für 17,90€ statt ø 70€ (Preisfehler? / Amazon)",
+   "url": "https://www.mydealz.de/deals/tillvex-gastro-stehtisch-klappbar-o70cm-mit-husse-weiss-fertig-montiert-fur-1790eur-statt-o-70eur-preisfehler-amazon-2870513",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 17.9,
+   "price_text": "17,90€",
+   "category": "Home & Living",
+   "image": "https://static.mydealz.de/threads/raw/dY895/2870513_1/re/150x150/qt/55/2870513_1.jpg",
+   "published": "2026-11-13T11:11:18+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.preisjaeger.at/deals/kaffeevollautomat-primadonna-aromatic-ecam63075tsm-at-ebay-372339",
    "title": "Kaffeevollautomat De'Longhi PrimaDonna Aromatic ECAM630.75.TSM @ eBay",
