@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:30:11.872753+00:00",
+ "updated": "2026-11-14T19:23:35.195899+00:00",
  "deals": [
   {
    "id": "https://www.mydealz.de/deals/kaufland-marktplatzpreisfehler-jabra-evolve3-75-uc-headset-on-ear-bluetooth-2871301",
@@ -404,21 +404,6 @@
    "image": "https://static.mydealz.de/threads/raw/1NVK2/2862776_1/re/150x150/qt/55/2862776_1.jpg",
    "published": "2026-11-01T12:55:06+00:00",
    "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/penny-lokal-moglicher-preisfehler-mon-cheri-cherry-club-cassis-vodka-157g-fur-nur-195-eur-statt-399-eur-doppelter-rabatt-2862286",
-   "title": "[Penny lokal / möglicher Preis fehler] Mon Chéri Cherry Club Cassis-Vodka 157g für nur 1,95 € statt 3,99 € (doppelter Rabatt)",
-   "url": "https://www.mydealz.de/deals/penny-lokal-moglicher-preisfehler-mon-cheri-cherry-club-cassis-vodka-157g-fur-nur-195-eur-statt-399-eur-doppelter-rabatt-2862286",
-   "outlink": null,
-   "merchant": "PENNY",
-   "amazon": false,
-   "price": 1.95,
-   "price_text": "1,95€",
-   "category": "Lebensmittel & Haushalt",
-   "image": "https://static.mydealz.de/threads/raw/Oi3E4/2862286_1/re/150x150/qt/55/2862286_1.jpg",
-   "published": "2026-10-31T17:59:02+00:00",
-   "source": "mydealz Neu",
    "notified": false
   }
  ]
