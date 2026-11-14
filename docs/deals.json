@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-13T21:05:49.275455+00:00",
+ "updated": "2026-11-14T01:24:47.066476+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-boc-diverse-fahrrader-fur-0eur-2870969",
+   "title": "[ Preisfehler ] - B.O.C - diverse Fahrräder für 0€",
+   "url": "https://www.mydealz.de/deals/preisfehler-boc-diverse-fahrrader-fur-0eur-2870969",
+   "outlink": null,
+   "merchant": "BOC24",
+   "amazon": false,
+   "price": 0.0,
+   "price_text": "0,00€",
+   "category": "Sport & Outdoor",
+   "image": "https://static.mydealz.de/threads/raw/LrMLv/2870969_1/re/150x150/qt/55/2870969_1.jpg",
+   "published": "2026-11-13T22:09:51+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.dealdoktor.de/master-lock-sentry-safe-tresor-hl100es/",
    "title": "Preisfehler?! Master Lock Sentry Safe Tresor HL100ES mit Kartenlesefunktion für 77,77€ (statt 340€)",
