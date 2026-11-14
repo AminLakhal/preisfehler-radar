@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-14T07:41:17.345570+00:00",
+ "updated": "2026-11-14T14:30:11.872753+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/kaufland-marktplatzpreisfehler-jabra-evolve3-75-uc-headset-on-ear-bluetooth-2871301",
+   "title": "[Kaufland-Marktplatz]Jabra Evolve3 75 UC - Headset - On-Ear - Bluetooth",
+   "url": "https://www.mydealz.de/deals/kaufland-marktplatzpreisfehler-jabra-evolve3-75-uc-headset-on-ear-bluetooth-2871301",
+   "outlink": null,
+   "merchant": "Kaufland",
+   "amazon": false,
+   "price": 105.69,
+   "price_text": "105,69€",
+   "category": "Elektronik",
+   "image": "https://static.mydealz.de/threads/raw/oLl0U/2871301_1/re/150x150/qt/55/2871301_1.jpg",
+   "published": "2026-11-14T14:03:30+00:00",
+   "source": "mydealz Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-boc-diverse-fahrrader-fur-0eur-2870969",
    "title": "[ Preisfehler ] - B.O.C - diverse Fahrräder für 0€",
