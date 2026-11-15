@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-15T09:50:30.002766+00:00",
+ "updated": "2026-11-15T16:38:38.733598+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/puppenschloss-puppenhaus-vertbaudet-cb-2871914",
+   "title": "Puppenschloss / Puppenhaus Vertbaudet - CB",
+   "url": "https://www.mydealz.de/deals/puppenschloss-puppenhaus-vertbaudet-cb-2871914",
+   "outlink": null,
+   "merchant": "Vertbaudet",
+   "amazon": false,
+   "price": 114.11,
+   "price_text": "114,11€",
+   "category": "Family & Kids",
+   "image": "https://static.mydealz.de/threads/raw/Kr06z/2871914_1/re/150x150/qt/55/2871914_1.jpg",
+   "published": "2026-11-15T15:48:27+00:00",
+   "source": "mydealz Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/kaufland-marktplatzpreisfehler-jabra-evolve3-75-uc-headset-on-ear-bluetooth-2871301",
    "title": "[Kaufland-Marktplatz]Jabra Evolve3 75 UC - Headset - On-Ear - Bluetooth",
@@ -373,36 +388,6 @@
    "category": "Auto & Motorrad",
    "image": "https://static.mydealz.de/threads/raw/U3kMM/2863659_1/re/150x150/qt/55/2863659_1.jpg",
    "published": "2026-11-02T17:26:51+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.preisjaeger.at/deals/preisfehler-home24-kommode-aus-massiver-wildeiche-80x89x40cm-4-schubladen-371685",
-   "title": "(Preisfehler?) home24 Kommode aus massiver Wildeiche (80x89x40cm, 4 Schubladen)",
-   "url": "https://www.preisjaeger.at/deals/preisfehler-home24-kommode-aus-massiver-wildeiche-80x89x40cm-4-schubladen-371685",
-   "outlink": null,
-   "merchant": "XXXLutz",
-   "amazon": false,
-   "price": 99.0,
-   "price_text": "99€",
-   "category": "Home & Living",
-   "image": "https://static.preisjaeger.at/threads/raw/lp2a5/371685_1/re/150x150/qt/55/371685_1.jpg",
-   "published": "2026-11-01T14:44:48+00:00",
-   "source": "Preisjäger Neu",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-stozzon-mundspray-2862776",
-   "title": "*Preisfehler* Stozzon Mundspray",
-   "url": "https://www.mydealz.de/deals/preisfehler-stozzon-mundspray-2862776",
-   "outlink": null,
-   "merchant": "medpex",
-   "amazon": false,
-   "price": 3.61,
-   "price_text": "3,61€",
-   "category": "Beauty & Gesundheit",
-   "image": "https://static.mydealz.de/threads/raw/1NVK2/2862776_1/re/150x150/qt/55/2862776_1.jpg",
-   "published": "2026-11-01T12:55:06+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
