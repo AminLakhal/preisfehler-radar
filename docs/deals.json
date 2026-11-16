@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-16T07:43:15.442239+00:00",
+ "updated": "2026-11-16T17:27:21.276988+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-technics-eah-az100e-k-schwarz-inkl-versand-aus-uk-at-eur-3637-2872719",
+   "title": "[Preisfehler] Technics EAH-AZ100E-K (Schwarz) inkl. Versand aus UK @ € 36,37",
+   "url": "https://www.mydealz.de/deals/preisfehler-technics-eah-az100e-k-schwarz-inkl-versand-aus-uk-at-eur-3637-2872719",
+   "outlink": "https://www.amazon.de/Technics-EAH-AZ100E-K-Ger%C3%A4uschunterdr%C3%BCckung-Multipoint-Bluetooth-Ear-Kopfh%C3%B6rer-Schwarz/dp/B0DQPVJ74B/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=RYWGLM6H0I3L&dib=eyJ2IjoiMSJ9.ksyIwUnWFreIt2Uap6nw4GB0nz1zgsVTvfo6QVrvMVL1OsBxEoQfzAy87-kAqo_WvzwCDAEJir2D6IYzfGtTZdUvz13jlaOeTNCEsgLNziMmezpqNngeVe_IOIJ4Hvkf8oSBpzn7WkR8W5fU9s9c6ToppSkUav6SB3iskBUx9aAxvAUAOz4gkxq3AxQC1Dh2C9dJis1Iq1z-PzpgUFJispj7MgLOGTNDWymsOVacCUU.QGrbzXf-rz_hQh_QBO9LCMplPZtXOZpffwU_wlsDooc&dib_tag=se&keywords=Technics%2BEAHAZ100&qid=1794829885&sprefix=technics%2Beahaz100%2Caps%2C139&sr=8-2&ufe=app_do%3Aamzn1.fos.0187bea9-5b70-4ee4-bc8e-827b7fe1d604&th=1",
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 36.37,
+   "price_text": "36,37€",
+   "category": "Elektronik",
+   "image": "https://static.mydealz.de/threads/raw/nh9r8/2872719_1/re/150x150/qt/55/2872719_1.jpg",
+   "published": "2026-11-16T12:16:48+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-festool-hauptfilter-kartusche-hf-turbo-fur-absaugturbine-3091-4001-7501-2872079",
    "title": "Preisfehler: Festool Hauptfilter-Kartusche HF-TURBO für Absaugturbine 3091, 4001, 7501",
@@ -388,21 +403,6 @@
    "category": "Sport & Outdoor",
    "image": "https://static.mydealz.de/threads/raw/6b8EM/2863932_1/re/150x150/qt/55/2863932_1.jpg",
    "published": "2026-11-03T07:49:39+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/kaufland-michelin-reifenpannenspray-mad-dock-insektenentferner-auslistung-2863659",
-   "title": "Kaufland Metzingen- Michelin Reifenpannenspray / Mad Docs Insektenentferner | Auslistung / Preisfehler LOKAL",
-   "url": "https://www.mydealz.de/deals/kaufland-michelin-reifenpannenspray-mad-dock-insektenentferner-auslistung-2863659",
-   "outlink": null,
-   "merchant": "Kaufland",
-   "amazon": false,
-   "price": 0.01,
-   "price_text": "0,01€",
-   "category": "Auto & Motorrad",
-   "image": "https://static.mydealz.de/threads/raw/U3kMM/2863659_1/re/150x150/qt/55/2863659_1.jpg",
-   "published": "2026-11-02T17:26:51+00:00",
    "source": "mydealz Preisfehler",
    "notified": false
   }
