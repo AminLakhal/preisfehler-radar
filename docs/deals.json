@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-17T08:39:50.801156+00:00",
+ "updated": "2026-11-17T17:51:56.470536+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-red-bull-energy-drink-24-x-250-ml-dose-ab-582eur-024eurdose-versandkostenfrei-via-amazon-marketplace-2873885",
+   "title": "[Preisfehler] Red Bull Energy Drink 24 x 250 ml Dose ab 5,82€ (0,24€/Dose | Versandkostenfrei via Amazon Marketplace)",
+   "url": "https://www.mydealz.de/deals/preisfehler-red-bull-energy-drink-24-x-250-ml-dose-ab-582eur-024eurdose-versandkostenfrei-via-amazon-marketplace-2873885",
+   "outlink": "https://www.amazon.de/dp/B001TKURTY",
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 5.82,
+   "price_text": "5,82€",
+   "category": "Lebensmittel & Haushalt",
+   "image": "https://static.mydealz.de/threads/raw/XbXFr/2873885_1/re/150x150/qt/55/2873885_1.jpg",
+   "published": "2026-11-17T14:42:17+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
+  {
+   "id": "https://www.preisjaeger.at/deals/preisfehler-mobelix-bettuberbau-azurro-in-3-varianten-90-bis-180cm-mit-schiebetur-und-ablagen-372662",
+   "title": "(Preisfehler) Möbelix Bettüberbau Azurro in 3 Varianten (90 bis 180cm) mit Schiebetür und Ablagen",
+   "url": "https://www.preisjaeger.at/deals/preisfehler-mobelix-bettuberbau-azurro-in-3-varianten-90-bis-180cm-mit-schiebetur-und-ablagen-372662",
+   "outlink": null,
+   "merchant": "Möbelix",
+   "amazon": false,
+   "price": 8.0,
+   "price_text": "8€",
+   "category": "Home & Living",
+   "image": "https://static.preisjaeger.at/threads/raw/oHE1m/372662_1/re/150x150/qt/55/372662_1.jpg",
+   "published": "2026-11-17T14:30:58+00:00",
+   "source": "Preisjäger Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-telekom-netz-young-freenet-magentamobi-l-young-allnetsms-flat-200gb-5g-bis-300mbits-fur-495eurmonat-1999eur-ag-2873492",
    "title": "Preisfehler, Telekom Netz, Young: Freenet MagentaMobil L Young Allnet/SMS Flat 200GB 5G bis 300Mbit/s für 4,95€/Monat, 19,99€ AG",
