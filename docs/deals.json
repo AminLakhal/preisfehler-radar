@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-16T17:27:21.276988+00:00",
+ "updated": "2026-11-17T00:56:00.796555+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/finnair-240000-avios-punkte-fur-nur-eur001-preisfehler-2873195",
+   "title": "Finnair 240000 AVIOS Punkte für nur €0,01 (Preisfehler?)",
+   "url": "https://www.mydealz.de/deals/finnair-240000-avios-punkte-fur-nur-eur001-preisfehler-2873195",
+   "outlink": null,
+   "merchant": "Finnair",
+   "amazon": false,
+   "price": 0.01,
+   "price_text": "0,01€",
+   "category": "Urlaub & Reisen",
+   "image": "https://static.mydealz.de/threads/raw/6nBSH/2873195_1/re/150x150/qt/55/2873195_1.jpg",
+   "published": "2026-11-16T20:16:28+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-technics-eah-az100e-k-schwarz-inkl-versand-aus-uk-at-eur-3637-2872719",
    "title": "[Preisfehler] Technics EAH-AZ100E-K (Schwarz) inkl. Versand aus UK @ € 36,37",
