@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-20T17:49:23.380400+00:00",
+ "updated": "2026-11-20T23:24:49.949478+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/polyrattan-garten-sitzgruppe-bali-5-teilig-mit-4-stuhlen-tisch-fur-21199eur-statt-39895eur-47-ersparnis-2877631",
+   "title": "Polyrattan Garten Sitzgruppe Bali (5-teilig) mit 4 Stühlen & Tisch für 211,99€ statt 398,95€ (47% Ersparnis)",
+   "url": "https://www.mydealz.de/deals/polyrattan-garten-sitzgruppe-bali-5-teilig-mit-4-stuhlen-tisch-fur-21199eur-statt-39895eur-47-ersparnis-2877631",
+   "outlink": null,
+   "merchant": "DeubaXXL",
+   "amazon": false,
+   "price": 211.99,
+   "price_text": "211,99€",
+   "category": "Garten & Baumarkt",
+   "image": "https://static.mydealz.de/threads/raw/2iQCb/2877631_1/re/150x150/qt/55/2877631_1.jpg",
+   "published": "2026-11-20T23:15:27+00:00",
+   "source": "mydealz Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-calmwaters-acryl-premium-badewanne-komplettset-190x90-cm-fur-6999eur-bauhaus-2876754",
    "title": "Preisfehler: Calmwaters Acryl Premium Badewanne Komplettset 190x90 cm für 69,99€ (Bauhaus)",
@@ -404,21 +419,6 @@
    "image": "https://static.mydealz.de/threads/raw/DfFXI/2866406_1/re/150x150/qt/55/2866406_1.jpg",
    "published": "2026-11-07T11:44:38+00:00",
    "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/amazon-playstation-5-pro-zur-uvp-verfugbarkeits-deal-2866217",
-   "title": "[Amazon] PlayStation 5 Pro zur UVP - Verfügbarkeits-Deal",
-   "url": "https://www.mydealz.de/deals/amazon-playstation-5-pro-zur-uvp-verfugbarkeits-deal-2866217",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 899.99,
-   "price_text": "899,99€",
-   "category": "Gaming",
-   "image": "https://static.mydealz.de/threads/raw/Ei1Zk/2866217_1/re/150x150/qt/55/2866217_1.jpg",
-   "published": "2026-11-06T23:03:40+00:00",
-   "source": "mydealz Neu",
    "notified": false
   }
  ]
