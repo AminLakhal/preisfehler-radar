@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-20T01:53:30.879884+00:00",
+ "updated": "2026-11-20T09:15:31.554673+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-calmwaters-acryl-premium-badewanne-komplettset-190x90-cm-fur-6999eur-bauhaus-2876754",
+   "title": "Preisfehler: Calmwaters Acryl Premium Badewanne Komplettset 190x90 cm für 69,99€ (Bauhaus)",
+   "url": "https://www.mydealz.de/deals/preisfehler-calmwaters-acryl-premium-badewanne-komplettset-190x90-cm-fur-6999eur-bauhaus-2876754",
+   "outlink": null,
+   "merchant": "BAUHAUS",
+   "amazon": false,
+   "price": 69.99,
+   "price_text": "69,99€",
+   "category": "Garten & Baumarkt",
+   "image": "https://static.mydealz.de/threads/raw/bx3Qb/2876754_1/re/150x150/qt/55/2876754_1.jpg",
+   "published": "2026-11-20T07:34:45+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-butlers-geschirr-set-atlantis-12-tlg-beige-fur-1398eur-xxxlutz-2876589",
    "title": "Preisfehler: Butlers Geschirr-Set Atlantis (12-tlg.) Beige für 13,98€ (XXXLutz/Kaufland)",
