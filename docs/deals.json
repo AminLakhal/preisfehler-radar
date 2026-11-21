@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-21T04:04:59.921665+00:00",
+ "updated": "2026-11-21T12:29:25.606778+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/mcdonalds-preisfehler-in-der-app-2877876",
+   "title": "[Lokal] McDonalds Preisfehler in der App",
+   "url": "https://www.mydealz.de/deals/mcdonalds-preisfehler-in-der-app-2877876",
+   "outlink": null,
+   "merchant": "McDonald's",
+   "amazon": false,
+   "price": null,
+   "price_text": "",
+   "category": "Dienstleistungen & Verträge",
+   "image": "https://static.mydealz.de/threads/raw/rzyqU/2877876_1/re/150x150/qt/55/2877876_1.jpg",
+   "published": "2026-11-21T11:05:37+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/polyrattan-garten-sitzgruppe-bali-5-teilig-mit-4-stuhlen-tisch-fur-21199eur-statt-39895eur-47-ersparnis-2877631",
    "title": "Polyrattan Garten Sitzgruppe Bali (5-teilig) mit 4 Stühlen & Tisch für 211,99€ statt 398,95€ (47% Ersparnis)",
@@ -404,21 +419,6 @@
    "image": "https://static.mydealz.de/threads/raw/JvzrQ/2866713_1/re/150x150/qt/55/2866713_1.jpg",
    "published": "2026-11-08T05:38:57+00:00",
    "source": "mydealz Neu",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-10-kilo-rote-orangen-blutorangen-fur-1756eur-bzw-20-kilo-mit-kwk-fur-2512eur-126eurkilo-crowdfarming-2866406",
-   "title": "Preisfehler? 10 Kilo Rote Orangen (Blutorangen) bei Adoption für 17,56€ bzw. 20 Kilo mit KWK für 25,12€ = 1,26€/Kilo! Crowdfarming",
-   "url": "https://www.mydealz.de/deals/preisfehler-10-kilo-rote-orangen-blutorangen-fur-1756eur-bzw-20-kilo-mit-kwk-fur-2512eur-126eurkilo-crowdfarming-2866406",
-   "outlink": null,
-   "merchant": "CrowdFarming",
-   "amazon": false,
-   "price": 25.12,
-   "price_text": "25,12€",
-   "category": "Lebensmittel & Haushalt",
-   "image": "https://static.mydealz.de/threads/raw/DfFXI/2866406_1/re/150x150/qt/55/2866406_1.jpg",
-   "published": "2026-11-07T11:44:38+00:00",
-   "source": "mydealz Preisfehler",
    "notified": false
   }
  ]
