@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-23T04:03:58.935590+00:00",
+ "updated": "2026-11-23T14:23:16.688741+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/stolzle-lausitz-champagnerglas-preisfehler-2879438",
+   "title": "Stölzle Lausitz Champagnerglas Preisfehler",
+   "url": "https://www.mydealz.de/deals/stolzle-lausitz-champagnerglas-preisfehler-2879438",
+   "outlink": null,
+   "merchant": "",
+   "amazon": false,
+   "price": 5.9,
+   "price_text": "5,90€",
+   "category": "Home & Living",
+   "image": "https://static.mydealz.de/threads/raw/SO1YB/2879438_1/re/150x150/qt/55/2879438_1.jpg",
+   "published": "2026-11-23T11:16:06+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-clever-tonies-ab-001-eur-im-offiziellen-tonies-shop-bei-tiktok-90-coupon-personalisierter-neukunden-2878857",
    "title": "Preisfehler Clever Tonies ab 0,01 € im offiziellen Tonies Shop bei TikTok – 90 % Coupon personalisierter Neukunden",
@@ -374,51 +389,6 @@
    "image": "https://static.mydealz.de/threads/raw/fE65f/2867517_1/re/150x150/qt/55/2867517_1.jpg",
    "published": "2026-11-09T15:56:11+00:00",
    "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/rubbermaid-brute-abfallbehalter-weiss-grosse-1665-liter-preisfehler-2867262",
-   "title": "Rubbermaid BRUTE Abfallbehälter, weiß – Größe: 166,5 Liter - Preisfehler",
-   "url": "https://www.mydealz.de/deals/rubbermaid-brute-abfallbehalter-weiss-grosse-1665-liter-preisfehler-2867262",
-   "outlink": null,
-   "merchant": "Hygi",
-   "amazon": false,
-   "price": 28.85,
-   "price_text": "28,85€",
-   "category": "Home & Living",
-   "image": "https://static.mydealz.de/threads/raw/dsCsG/2867262_1/re/150x150/qt/55/2867262_1.jpg",
-   "published": "2026-11-09T09:05:09+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/moglicher-preisfehler-bei-amazon-jacke-2867220",
-   "title": "(seek-LWE@Amazon) Möglicher Preisfehler bei Amazon – Jacke",
-   "url": "https://www.mydealz.de/deals/moglicher-preisfehler-bei-amazon-jacke-2867220",
-   "outlink": "https://www.amazon.de/dp/B0HQ4BTC1Y",
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 3.99,
-   "price_text": "3,99€",
-   "category": "Fashion & Accessoires",
-   "image": "https://static.mydealz.de/threads/raw/Q4BsM/2867220_1/re/150x150/qt/55/2867220_1.jpg",
-   "published": "2026-11-09T08:25:46+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.dealdoktor.de/%f0%9f%a7%a5-preisfehler-teddyfleece-jacke-damen-fuer-098e-statt-2699e-bei-amazon/",
-   "title": "🧥 Preisfehler? Teddyfleece-Jacke Damen für 0,98€ (statt 26,99€) bei Amazon",
-   "url": "https://www.dealdoktor.de/%f0%9f%a7%a5-preisfehler-teddyfleece-jacke-damen-fuer-098e-statt-2699e-bei-amazon/",
-   "outlink": null,
-   "merchant": "Amazon",
-   "amazon": true,
-   "price": 0.98,
-   "price_text": "0,98€",
-   "category": "Sonstiges",
-   "image": "",
-   "published": "2026-11-09T08:14:07+00:00",
-   "source": "DealDoktor",
    "notified": false
   }
  ]
