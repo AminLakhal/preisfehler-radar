@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-23T14:23:16.688741+00:00",
+ "updated": "2026-11-24T01:44:42.237671+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-2x-switchbot-wlan-steckdose-matter-4er-pack-325-eurstk-prime-2880083",
+   "title": "Preisfehler? 2x SwitchBot WLAN Steckdose Matter (4er-Pack) – [3,25 €/Stk.] Prime",
+   "url": "https://www.mydealz.de/deals/preisfehler-2x-switchbot-wlan-steckdose-matter-4er-pack-325-eurstk-prime-2880083",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 25.99,
+   "price_text": "25,99€",
+   "category": "Elektronik",
+   "image": "https://static.mydealz.de/threads/raw/KjiVK/2880083_1/re/150x150/qt/55/2880083_1.jpg",
+   "published": "2026-11-23T23:06:18+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/razer-kraken-v4-vmtl-preisfehler-nur-markt-hoyerswerda-2880038",
+   "title": "Razer Kraken V4 (vmtl. Preisfehler nur Markt Hoyerswerda)",
+   "url": "https://www.mydealz.de/deals/razer-kraken-v4-vmtl-preisfehler-nur-markt-hoyerswerda-2880038",
+   "outlink": null,
+   "merchant": "expert",
+   "amazon": false,
+   "price": 61.98,
+   "price_text": "61,98€",
+   "category": "Gaming",
+   "image": "https://static.mydealz.de/threads/raw/f56NL/2880038_1/re/150x150/qt/55/2880038_1.jpg",
+   "published": "2026-11-23T21:32:14+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/stolzle-lausitz-champagnerglas-preisfehler-2879438",
    "title": "Stölzle Lausitz Champagnerglas Preisfehler",
@@ -374,21 +404,6 @@
    "image": "https://static.mydealz.de/threads/raw/iqGFD/2868345_1/re/150x150/qt/55/2868345_1.jpg",
    "published": "2026-11-10T16:51:12+00:00",
    "source": "mydealz Neu",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-layenberger-2867517",
-   "title": "Preisfehler Layenberger [Rossmann]",
-   "url": "https://www.mydealz.de/deals/preisfehler-layenberger-2867517",
-   "outlink": null,
-   "merchant": "ROSSMANN",
-   "amazon": false,
-   "price": 7.7,
-   "price_text": "7,70€",
-   "category": "Sport & Outdoor",
-   "image": "https://static.mydealz.de/threads/raw/fE65f/2867517_1/re/150x150/qt/55/2867517_1.jpg",
-   "published": "2026-11-09T15:56:11+00:00",
-   "source": "mydealz Preisfehler",
    "notified": false
   }
  ]
