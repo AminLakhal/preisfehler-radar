@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-24T21:29:15.661854+00:00",
+ "updated": "2026-11-25T04:28:03.388760+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/das-boot-the-directors-cut-184eur-das-boot-komplette-serie-1985-239eur-hd-digital-amazon-video-2881071",
+   "title": "Das Boot - The Director`s Cut ~ 1,84€ / Das Boot - komplette Serie (1985) ~ 2,39€ | HD digital | Amazon Video",
+   "url": "https://www.mydealz.de/deals/das-boot-the-directors-cut-184eur-das-boot-komplette-serie-1985-239eur-hd-digital-amazon-video-2881071",
+   "outlink": null,
+   "merchant": "Amazon Prime Video",
+   "amazon": true,
+   "price": 1.84,
+   "price_text": "1,84€",
+   "category": "Kultur & Freizeit",
+   "image": "https://static.mydealz.de/threads/raw/zUZB3/2881071_1/re/150x150/qt/55/2881071_1.jpg",
+   "published": "2026-11-25T01:52:16+00:00",
+   "source": "mydealz Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-2x-switchbot-wlan-steckdose-matter-4er-pack-325-eurstk-prime-2880083",
    "title": "Preisfehler? 2x SwitchBot WLAN Steckdose Matter (4er-Pack) – [3,25 €/Stk.] Prime",
@@ -284,6 +299,21 @@
    "image": "https://static.mydealz.de/threads/raw/oLl0U/2871301_1/re/150x150/qt/55/2871301_1.jpg",
    "published": "2026-11-14T14:03:30+00:00",
    "source": "mydealz Neu",
+   "notified": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-pietrapura-mandus-primitivo-di-manduria-dop-rotwein-italien-trocken-1-x-075-l-packung-mit-6-prime-2868351",
+   "title": "Preisfehler! PietraPura Mandus Primitivo di Manduria DOP Rotwein Italien trocken (1 x 0.75 l) (Packung mit 6) PRIME",
+   "url": "https://www.mydealz.de/deals/preisfehler-pietrapura-mandus-primitivo-di-manduria-dop-rotwein-italien-trocken-1-x-075-l-packung-mit-6-prime-2868351",
+   "outlink": null,
+   "merchant": "Amazon",
+   "amazon": true,
+   "price": 25.17,
+   "price_text": "25,17€",
+   "category": "Lebensmittel & Haushalt",
+   "image": "https://static.mydealz.de/threads/raw/uSANi/2868351_1/re/150x150/qt/55/2868351_1.jpg",
+   "published": "2026-11-14T13:45:36+00:00",
+   "source": "mydealz Preisfehler",
    "notified": false
   },
   {
