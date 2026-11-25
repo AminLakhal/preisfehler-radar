@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-25T14:45:33.968054+00:00",
+ "updated": "2026-11-25T23:20:48.944585+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/holy-syrup-starter-set-probier-box-2881751",
+   "title": "Preisfehler? Holy Syrup + Starter Set + Probier Box",
+   "url": "https://www.mydealz.de/deals/holy-syrup-starter-set-probier-box-2881751",
+   "outlink": null,
+   "merchant": "",
+   "amazon": false,
+   "price": 25.99,
+   "price_text": "25,99€",
+   "category": "Lebensmittel & Haushalt",
+   "image": "https://static.mydealz.de/threads/raw/hBi6X/2881751_1/re/150x150/qt/55/2881751_1.jpg",
+   "published": "2026-11-25T18:33:24+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/das-boot-the-directors-cut-184eur-das-boot-komplette-serie-1985-239eur-hd-digital-amazon-video-2881071",
    "title": "Das Boot - The Director`s Cut ~ 1,84€ / Das Boot - komplette Serie (1985) ~ 2,39€ | HD digital | Amazon Video",
