@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-26T23:44:56.956454+00:00",
+ "updated": "2026-11-27T05:22:28.374909+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-black-friday-rabattberechnung-jd-onlineshop-2883141",
+   "title": "[Preisfehler] Rabattberechnung Black Friday JD Onlineshop",
+   "url": "https://www.mydealz.de/deals/preisfehler-black-friday-rabattberechnung-jd-onlineshop-2883141",
+   "outlink": null,
+   "merchant": "JD Sports",
+   "amazon": false,
+   "price": null,
+   "price_text": "",
+   "category": "Fashion & Accessoires",
+   "image": "https://static.mydealz.de/threads/raw/liZQd/2883141_1/re/150x150/qt/55/2883141_1.jpg",
+   "published": "2026-11-27T01:30:38+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/lokal-volvic-naturelle-6x15-l-fur-055-eur-150-eur-pfand-preisfehler-an-der-sb-kasse-kaufland-koln-ehrenfeld-2882099",
    "title": "[Lokal] Volvic Naturelle 6x1,5 l für 0,55 € (+1,50 € Pfand) – Preisfehler an der SB-Kasse, Kaufland Köln-Ehrenfeld",
