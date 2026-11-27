@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-27T15:19:03.263564+00:00",
+ "updated": "2026-11-27T23:31:18.418205+00:00",
  "deals": [
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-gutscheinfehler-peepo-pepe-kuscheltier-anhanger-gratis-dazu-statt-20-rabatt-im-bundle-fur-1619eur-2884345",
+   "title": "[Preisfehler / Gutscheinfehler ?] Peepo / Pepe Kuscheltier + Anhänger gratis dazu (statt 20% Rabatt im Bundle) für 16,19€",
+   "url": "https://www.mydealz.de/deals/preisfehler-gutscheinfehler-peepo-pepe-kuscheltier-anhanger-gratis-dazu-statt-20-rabatt-im-bundle-fur-1619eur-2884345",
+   "outlink": null,
+   "merchant": "",
+   "amazon": false,
+   "price": 22.68,
+   "price_text": "22,68€",
+   "category": "Family & Kids",
+   "image": "https://static.mydealz.de/threads/raw/ks6dq/2884345_1/re/150x150/qt/55/2884345_1.jpg",
+   "published": "2026-11-27T21:08:23+00:00",
+   "source": "mydealz Preisfehler",
+   "notified": false
+  },
+  {
+   "id": "https://www.preisjaeger.at/deals/lenovo-thinkbook-plus-g7-auto-twist-luna-grey-core-ultra-x7-358h-32gb-ram-512gb-ssd-de-373614",
+   "title": "(Preisfehler?) Lenovo ThinkBook Plus G7 Auto Twist, Luna Grey, Core Ultra X7 358H, 32GB RAM, 512GB SSD, DE",
+   "url": "https://www.preisjaeger.at/deals/lenovo-thinkbook-plus-g7-auto-twist-luna-grey-core-ultra-x7-358h-32gb-ram-512gb-ssd-de-373614",
+   "outlink": null,
+   "merchant": "Lenovo",
+   "amazon": false,
+   "price": 999.0,
+   "price_text": "999€",
+   "category": "Elektronik",
+   "image": "https://static.preisjaeger.at/threads/raw/0sh30/373614_1/re/150x150/qt/55/373614_1.jpg",
+   "published": "2026-11-27T15:38:46+00:00",
+   "source": "Preisjäger Neu",
+   "notified": false
+  },
   {
    "id": "https://www.mydealz.de/deals/preisfehler-black-friday-rabattberechnung-jd-onlineshop-2883141",
    "title": "[Preisfehler] Rabattberechnung Black Friday JD Onlineshop",
@@ -359,36 +389,6 @@
    "image": "https://static.mydealz.de/threads/raw/uSANi/2868351_1/re/150x150/qt/55/2868351_1.jpg",
    "published": "2026-11-14T13:45:36+00:00",
    "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/preisfehler-boc-diverse-fahrrader-fur-0eur-2870969",
-   "title": "[ Preisfehler ] - B.O.C - diverse Fahrräder für 0€",
-   "url": "https://www.mydealz.de/deals/preisfehler-boc-diverse-fahrrader-fur-0eur-2870969",
-   "outlink": null,
-   "merchant": "BOC24",
-   "amazon": false,
-   "price": 0.0,
-   "price_text": "0,00€",
-   "category": "Sport & Outdoor",
-   "image": "https://static.mydealz.de/threads/raw/LrMLv/2870969_1/re/150x150/qt/55/2870969_1.jpg",
-   "published": "2026-11-13T22:09:51+00:00",
-   "source": "mydealz Preisfehler",
-   "notified": false
-  },
-  {
-   "id": "https://www.dealdoktor.de/master-lock-sentry-safe-tresor-hl100es/",
-   "title": "Preisfehler?! Master Lock Sentry Safe Tresor HL100ES mit Kartenlesefunktion für 77,77€ (statt 340€)",
-   "url": "https://www.dealdoktor.de/master-lock-sentry-safe-tresor-hl100es/",
-   "outlink": null,
-   "merchant": "",
-   "amazon": false,
-   "price": 77.77,
-   "price_text": "77,77€",
-   "category": "Wohnen",
-   "image": "",
-   "published": "2026-11-13T17:44:50+00:00",
-   "source": "DealDoktor",
    "notified": false
   }
  ]
